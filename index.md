@@ -1,6 +1,6 @@
 Associated Prof. Dr.-Ing. Maria Méndez Real
 ============
-[<img src="/my_picture.JPG" width="50" height="70" />]
+[<img src="/my_picture.JPG" width="100" height="100" />]
 
 Personal Info
 ------------
