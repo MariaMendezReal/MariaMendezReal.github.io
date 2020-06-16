@@ -1,7 +1,7 @@
 Associated Prof. Dr.-Ing. Maria Méndez Real
 ============
 
-![Maria's picture](/my_picture.JPG =50x50)
+<img src="/my_picture.JPG" width="50" height="50" />
 
 Personal Info
 ------------
