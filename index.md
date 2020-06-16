@@ -1,13 +1,12 @@
 Associated Prof. Dr.-Ing. Maria Méndez Real
 ============
 
-![cou](/my_picyure.JPG)
+![](/my_picyure.JPG)
 
 Personal Info
 ------------
 
 **ECOLE POLYTECHNIQUE DE L'UNIVERSITE DE NANTES**<br/>
-
 **IETR - UMR CNRS 6164 - SYSCOM**
 
 tel : 02-40-68-30-21 (483021)
