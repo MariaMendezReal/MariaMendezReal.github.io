@@ -18,10 +18,5 @@ Rue Christian PAUC - La Chantrerie, BP 50609
 44306 Nantes Cedex 3 - FRANCE
 Bureau : C 110
 
-  * this one
-  * that one
-  * the other one
-
-Note that --- not considering the asterisk --- the actual text
-content starts at 4-columns in.
+  
 
