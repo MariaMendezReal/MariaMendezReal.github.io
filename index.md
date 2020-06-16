@@ -1,12 +1,15 @@
-An h1 header
+Associated Prof. Dr.-Ing. Maria Méndez Real
 ============
-An h1 header
-============
+Personal Info
+------------
+**ECOLE POLYTECHNIQUE DE L'UNIVERSITE DE NANTES
+IETR - UMR CNRS 6164 - SYSCOM**
+tel : 02-40-68-30-21 (483021)
+mail: Maria.Mendez@univ-nantes.fr
 
-Paragraphs are separated by a blank line.
-
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
+Rue Christian PAUC - La Chantrerie, BP 50609
+44306 Nantes Cedex 3 - FRANCE
+Bureau : C 110
 
   * this one
   * that one
