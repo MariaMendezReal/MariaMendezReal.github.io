@@ -1,12 +1,17 @@
-<html>
-    <head>
-        <meta charset="utf-8" />
-        <title>Title 1 </title>
-    </head>
+An h1 header
+============
+An h1 header
+============
 
-    <body>
-    this is a tes
-    [link to Google!](http://google.com)
-    </body>
-</html>
+Paragraphs are separated by a blank line.
+
+2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
+look like:
+
+  * this one
+  * that one
+  * the other one
+
+Note that --- not considering the asterisk --- the actual text
+content starts at 4-columns in.
 
