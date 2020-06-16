@@ -1,20 +1,22 @@
 Associated Prof. Dr.-Ing. Maria Méndez Real
 ============
 
+![example image](my_picyure.JPG "An exemplary image")
+
 Personal Info
 ------------
 
->**ECOLE POLYTECHNIQUE DE L'UNIVERSITE DE NANTES**
+**ECOLE POLYTECHNIQUE DE L'UNIVERSITE DE NANTES**
 
->**IETR - UMR CNRS 6164 - SYSCOM**
+**IETR - UMR CNRS 6164 - SYSCOM**
 
->tel : 02-40-68-30-21 (483021)
+tel : 02-40-68-30-21 (483021)
 
->mail: Maria.Mendez@univ-nantes.fr
+mail: Maria.Mendez@univ-nantes.fr
 
->Rue Christian PAUC - La Chantrerie, BP 50609
->44306 Nantes Cedex 3 - FRANCE
->Bureau : C 110
+Rue Christian PAUC - La Chantrerie, BP 50609
+44306 Nantes Cedex 3 - FRANCE
+Bureau : C 110
 
   * this one
   * that one
