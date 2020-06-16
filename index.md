@@ -6,7 +6,7 @@ Associated Prof. Dr.-Ing. Maria Méndez Real
 Personal Info
 ------------
 
-**ECOLE POLYTECHNIQUE DE L'UNIVERSITE DE NANTES**
+**ECOLE POLYTECHNIQUE DE L'UNIVERSITE DE NANTES**<br/>
 
 **IETR - UMR CNRS 6164 - SYSCOM**
 
