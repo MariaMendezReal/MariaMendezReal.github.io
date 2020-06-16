@@ -5,8 +5,11 @@ Personal Info
 ------------
 
 >**ECOLE POLYTECHNIQUE DE L'UNIVERSITE DE NANTES**
+
 >**IETR - UMR CNRS 6164 - SYSCOM**
+
 >tel : 02-40-68-30-21 (483021)
+
 >mail: Maria.Mendez@univ-nantes.fr
 
 >Rue Christian PAUC - La Chantrerie, BP 50609
