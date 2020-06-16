@@ -1,7 +1,7 @@
 Associated Prof. Dr.-Ing. Maria Méndez Real
 ============
 
-![](/my_picyure.JPG "Maria Méndez Real")
+![cou](/my_picyure.JPG)
 
 Personal Info
 ------------
@@ -25,5 +25,5 @@ Bureau : C 110
 CV
 -------
 
-[CV](my_cv.html)
+[Extended CV](my_cv.html)
 
