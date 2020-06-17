@@ -1,6 +1,9 @@
 Associate Prof. Dr.-Ing. Maria Méndez Real
 ============
-<img src="/my_picture.JPG" width="340" height="370" />
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="/my_picture.JPG" width="340" height="370" />  |  <img src="/my_picture.JPG" width="340" height="370" />
 
 Personal Info
 ------------
