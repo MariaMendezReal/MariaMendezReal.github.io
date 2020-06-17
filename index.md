@@ -2,6 +2,9 @@ Associate Prof. Dr.-Ing. Maria Méndez Real
 ============
 
 <img src="/my_picture.JPG" width="340" height="370" />    | Personal Info
+-----
+**ECOLE POLYTECHNIQUE DE L'UNIVERSITE DE NANTES**<br/>
+**IETR - UMR CNRS 6164 - SYSCOM**
 
 Personal Info
 --------
