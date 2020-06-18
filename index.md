@@ -6,8 +6,8 @@ Associate Prof. Dr.-Ing. Maria Méndez Real
 Personal Info
 -----
 
-**ECOLE POLYTECHNIQUE DE L'UNIVERSITE DE NANTES**<br/>
-**IETR - UMR CNRS 6164 - SYSCOM**
+**[ECOLE POLYTECHNIQUE DE L'UNIVERSITE DE NANTES](https://www.univ-nantes.fr/)**<br/>
+**[IETR](https://www.ietr.fr/?lang=en) - UMR CNRS 6164 - SYSCOM**
 
 tel : 02-40-68-30-21 (483021)<br/>
 mail: Maria.Mendez@univ-nantes.fr
