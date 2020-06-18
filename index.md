@@ -21,5 +21,5 @@ Bureau : C 110
 CV
 -------
 
-[Extended CV](cv_2020_2pages.pdf)
+[Extended CV](/cv_2020_2pages.pdf)
 
