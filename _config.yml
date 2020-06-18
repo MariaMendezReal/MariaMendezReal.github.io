@@ -35,7 +35,7 @@ academic_site_workshop/_config.yml
 executable file 74 lines (66 sloc) 2.07 KB
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Academic Website of Maria Méndez Real
 locale: en_FR
 logo: PolytechIETR # filename of a logo image that has been placed into your images directory
 
@@ -43,7 +43,7 @@ logo: PolytechIETR # filename of a logo image that has been placed into your ima
 owner:
   name: Maria Méndez
   avatar: my_picture.JPG
-  bio: "This is a sample Jekyll academic website."
+  bio: # "This is a sample Jekyll academic website."
   email: maria.mendez@univ-nantes.fr
   # Do not include the @ symbol in your Twitter username
   linkedin: Maria Méndez Real #username
@@ -52,6 +52,12 @@ owner:
   researchgate:  Maria Méndez Real #username
   #mendeley: #username
   disqus-shortname:
+
+.page-header{
+color:#ffff;
+background-color:#A067AB;
+background-image:linear-gradient(120deg,#5073B8,#A067AB);
+}
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
