@@ -6,7 +6,7 @@ Associate Prof. Dr.-Ing. Maria Méndez Real
 Personal Info
 -----
 
-**ECOLE POLYTECHNIQUE DE L'UNIVERSITE DE NANTES**<br/>|
+**ECOLE POLYTECHNIQUE DE L'UNIVERSITE DE NANTES**<br/>
 **IETR - UMR CNRS 6164 - SYSCOM**
 
 tel : 02-40-68-30-21 (483021)<br/>
@@ -21,5 +21,5 @@ Bureau : C 110
 CV
 -------
 
-[Extended CV](my_cv.html)
+[Extended CV](cv_2020_2pages.pdf)
 
