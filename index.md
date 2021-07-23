@@ -1,7 +1,7 @@
 Associate Prof. Dr.-Ing. Maria Méndez Real
 ============
 
-<img src="/my_picture.JPG" width="340" height="370" />    
+<img src="/PXL_20210629_160141244.PORTRAIT.jpg" width="260" height="340" /> 
 
 Personal Info
 -----
@@ -55,6 +55,6 @@ Current Research Projects
   
 Current PhD supervision
 -------
-- Safouane Noubir (2018-2021), "Security vulnerabilities of energy management on multi-core architectures"
-- May Myat Thu (2021-2024), "Study of side-channel vulnerabilities in deep learning FPGA implementations of computer vision"
-- Fatima El Bouchikhi (2021-2024), "Smart Energy modeling and Management in Batteryless Embedded Embedded Systems design"
+- Safouane Noubir (2018-2021), **Security vulnerabilities of energy management on multi-core architectures**
+- May Myat Thu (2021-2024), **Study of side-channel vulnerabilities in deep learning FPGA implementations of computer vision**
+- Fatima El Bouchikhi (2021-2024), **Smart Energy modeling and Management in Batteryless Embedded Embedded Systems design**
