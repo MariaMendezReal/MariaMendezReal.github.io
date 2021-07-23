@@ -26,7 +26,7 @@ From 2017 to 2018 she was an Assistant Professor (*ATER*) at Polytech Universit√
 In 2015 she was invited researcher at the Ruhr-University of Bochum (RUB), Germany. She worked on virtual prototyping tools for multi core architectures.<br/>
 In 2017, she received her PhD, european label, in Electronic Engineering - Hardware Security from UBS (*Universit√© de Bretagne-Sud*), within Lab-STICC UMR 6285 lab in France. Her PhD work was on the frame of the French ANR TSUNAMY project (2013-2017) and deal with secure-enable mechanisms for the spatial isolation of sensitive applications on many-core architectures.<br/>
 Before that, she received her master (Dipl.-Ing.) in Electrical and Computer from UBS in 2014.<br/>
-She is author and co-author in international journals, conferences and workshops (TECS, TC, DATE, JSA, FPL, SAMOS, VLSI, etc). She is PC member and reviwer of several international journals and conferences (Journal of Cryptography, DATE, NEWCAS, FPT, TCAD, LASCAS, MCSoC, ICCS, etc).<br/>
+She is author and co-author in international journals, conferences and workshops (TECS, TC, DATE, JSA, FPL, SAMOS, VLSI, etc). She is PC member and reviwer of several international journals and conferences (JCEN, DATE, NEWCAS, FPT, TCAD, LASCAS, MCSoC, ICCS, etc).<br/>
 She actively participates on national project evaluation (ANR projects, PEC, regional, etc) and jurys for recrutement of Associate Professors and PhD following and defense jurys.
 
 
@@ -56,12 +56,12 @@ Current Research Projects
   
 Current PhD supervision
 -------
-- Safouane Noubir (2018-2021), **Security vulnerabilities of energy management on multi-core architectures**
-- May Myat Thu (2021-2024), **Study of side-channel vulnerabilities in deep learning FPGA implementations of computer vision**
+- Safouane Noubir (2018-2021), **Investigation of Security Vulnerabilities of Energy Management on Multi-Core Architectures**
+- May Myat Thu (2021-2024), **Study of Side-Channel Vulnerabilities in Deep Learning FPGA Implementations of Computer Vision**
 - Fatima El Bouchikhi (2021-2024), **Smart Energy modeling and Management in Batteryless Embedded Embedded Systems design**
 
 Other research responsabilities
 -------
-- **Co-referent of cyber security activities of IETR lab** (since 2018)
+- **Co-referent of cyber security activities of IETR lab** (since 2019)
 - **Referent of IETR lab and member of the CNRS Cybersecurity _Miroir_ research group** (since 2021)
 - **Referent for EEA club** (since 2018)
