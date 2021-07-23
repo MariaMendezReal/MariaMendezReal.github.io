@@ -47,7 +47,7 @@ Current Research Projects
 - **SecV: Secure-V, Increasing security in open-hardware approaches** <br/>
   2022-2025<br/>
   Funding: ANR <br/>
-- **NOP: Normally-off Platforms (scientific resp.)**<br/>
+- **NOP: Safe and Effcient Intermittent Computing for a Batteryless IoT (scientific resp.)**<br/>
   2021-2024<br/>
   Funding: Cominlabs<br/>
 - **SecureIoT (laureate, scientific leader)**<br/>
