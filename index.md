@@ -33,7 +33,7 @@ She actively participates on national project evaluation (ANR projects, PEC, reg
 CV
 -------
 
-[Short CV](/cv_2020_2pages.pdf)
+[CV (long)](/cv_2021_long.pdf)
 
 List of Publications
 -------
