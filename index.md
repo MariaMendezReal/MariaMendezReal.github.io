@@ -7,10 +7,10 @@ Personal Info
 -----
 
 **[ECOLE POLYTECHNIQUE DE L'UNIVERSITE DE NANTES](https://www.univ-nantes.fr/)**<br/>
-**[IETR](https://www.ietr.fr/?lang=en) - UMR CNRS 6164 - SYSCOM**
+**[IETR](https://www.ietr.fr/?lang=en) - UMR CNRS 6164 - ASIC**
 
 tel : 02-40-68-30-21 (483021)<br/>
-mail: Maria.Mendez@univ-nantes.fr
+mail: maria.mendez@univ-nantes.fr
 
 **Address**<br/>
 Rue Christian PAUC - La Chantrerie, BP 50609<br/>
@@ -40,9 +40,9 @@ https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
 
 Current Research Projects
 -------
-- **VAVIECA: Side-Channel Attacks vulnerabilities on FPGA Deep Neural Networks implementions (scientific leader)**
-  2021-2024
-  Funding: DGA through PEC (Pôle d'Excellence Cyber)
+- **VAVIECA: Side-Channel Attacks vulnerabilities on FPGA Deep Neural Networks implementions (scientific leader)**<br/>
+  2021-2024<br/>
+  Funding: DGA through PEC (Pôle d'Excellence Cyber)<br/>
 - **SecV: Secure-V, Increasing security in open-hardware approaches** 
   2022-2025
   Funding: ANR 
