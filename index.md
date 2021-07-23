@@ -41,16 +41,16 @@ https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
 Current Research Projects
 -------
 - **VAVIECA: Side-Channel Attacks vulnerabilities on FPGA Deep Neural Networks implementions (scientific leader)**<br/>
-  2021-2024<br/>
+  2021-2024<br/><br/>
   Funding: DGA through PEC (Pôle d'Excellence Cyber)<br/>
-- **SecV: Secure-V, Increasing security in open-hardware approaches** 
-  2022-2025
-  Funding: ANR 
-- **NOP: Normally-off Platforms (scientific resp.)**
-  2021-2024
-  Funding: Cominlabs
-- **SecureIoT (laureate, scientific leader)**
-  2018-2021
+- **SecV: Secure-V, Increasing security in open-hardware approaches** <br/>
+  2022-2025<br/>
+  Funding: ANR <br/>
+- **NOP: Normally-off Platforms (scientific resp.)**<br/>
+  2021-2024<br/>
+  Funding: Cominlabs<br/>
+- **SecureIoT (laureate, scientific leader)**<br/>
+  2018-2021<br/>
   Funding: RFI WISE Attractivité
   
 Current PhD supervision
