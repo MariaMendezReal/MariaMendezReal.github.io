@@ -1,5 +1,5 @@
-Associate Prof. - Hardware Security <br/>
-Dr.-Ing. Maria Méndez Real
+Associate Prof. are Security <br/>
+Dr.-Ing. Maria Méndez Real <br/>
 ============
 
 <img src="/PXL_20210629_160141244.PORTRAIT.jpg" width="260" height="340" /> 
