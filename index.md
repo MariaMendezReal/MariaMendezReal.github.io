@@ -48,13 +48,13 @@ Research Projects & Fundings
 - **TRUST: Towards Reconfigurable and Secured Industrial IoT (participant)**<br/>
   2018-2021<br/>
   Funding: RFI WISE, mobility (10KE)
-  - **NOPE: Normally-Off Computing (participant)**<br/>
+- **NOPE: Normally-Off Computing (participant)**<br/>
   2019<br/>
   Funding: Cominlabs, Exploratory action <br/>
 - **Exploration of security and reliability compatibility (scientific leader)**<br/>
   2013-2017<br/>
   Funding: PEPS IETR (3,6KE)
-- **TSUNAMY: Hardware and software managemenT of data SecUrity iN A ManY core platform (PhD participant)**<br/>
+- **TSUNAMY: Hardware and software managemenT of data SecUrity iN A ManY core platform (PhD, participant)**<br/>
   2013-2017<br/>
   Funding: ANR PRC (573KE)
     
