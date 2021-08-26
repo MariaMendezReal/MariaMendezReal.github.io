@@ -38,20 +38,34 @@ List of Publications
 -------
 https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
 
-Current Research Projects
+Research Projects & Fundings
 -------
 - **VAVIECA: Side-Channel Attacks vulnerabilities on FPGA Deep Neural Networks implementions (scientific leader)**<br/>
   2021-2024<br/>
-  Funding: DGA through PEC (Pôle d'Excellence Cyber)<br/>
+  Funding: DGA through PEC (Pôle d'Excellence Cyber) (140KE)<br/>
 - **SecV: Secure-V, Increasing security in open-hardware approaches** <br/>
   2022-2025<br/>
-  Funding: ANR <br/>
+  Funding: ANR PRC (736KE)<br/>
 - **NOP: Safe and Effcient Intermittent Computing for a Batteryless IoT (scientific resp.)**<br/>
   2021-2024<br/>
-  Funding: Cominlabs<br/>
+  Funding: Cominlabs (380KE) <br/>
 - **SecureIoT (laureate, scientific leader)**<br/>
   2018-2021<br/>
-  Funding: RFI WISE Attractivité
+  Funding: RFI WISE Attractivité, PhD funding (120KE)
+- **SEROIF: (participant)**<br/>
+  2013-2017<br/>
+  Funding: RFI WISE, mobility (8KE)
+- **TRUST:  (participant)**<br/>
+  2013-2017<br/>
+  Funding: RFI WISE, mobility (8KE)
+- **TSUNAMY: Hardware and software managemenT of data SecUrity iN A ManY core platform (PhD participant)**<br/>
+  2013-2017<br/>
+  Funding: PEPS IETR (8KE)
+- **TSUNAMY: Hardware and software managemenT of data SecUrity iN A ManY core platform (PhD participant)**<br/>
+  2013-2017<br/>
+  Funding: ANR PRC (573KE)
+  
+  
   
 Current PhD supervision
 -------
