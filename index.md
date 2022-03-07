@@ -78,3 +78,6 @@ List of Publications
 -------
 https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
 
+**List of open-source projects**
+- [DVFS-based attack](https://github.com/MariaMendezReal/DVFS-multicore-attack)
+
