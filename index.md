@@ -26,7 +26,7 @@ In 2015 she was invited researcher at the Ruhr-University of Bochum (RUB), Germa
 In 2017, she received her PhD, european label, in Electronic Engineering - Hardware Security from UBS (*Université de Bretagne-Sud*), within Lab-STICC UMR 6285 lab in France. Her PhD work was on the frame of the French ANR TSUNAMY project (2013-2017) and deal with secure-enable mechanisms for the physical isolation of sensitive applications on many-core architectures.<br/>
 Before that, she received her master (Dipl.-Ing.) in Electrical and Computer from UBS in 2014.<br/>
 She is author and co-author in international journals, conferences and workshops (TECS, TC, DATE, JSA, FPL, SAMOS, VLSI, etc). She is PC member and reviwer of several international journals and conferences (JCEN, DATE, NEWCAS, FPT, TCAD, LASCAS, MCSoC, ICCS, etc).<br/>
-**She is currently PC member of TCHES 2023.**<br/>
+**She is PC member of TCHES 2023.**<br/>
 She actively participates on national project evaluation (ANR projects, PEC, regional, etc) and jurys for recrutement of Associate Professors and PhD following and defense jurys.
 
 Research Projects & Fundings
