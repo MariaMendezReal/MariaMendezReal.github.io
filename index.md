@@ -61,7 +61,7 @@ Research Projects & Fundings
     
 PhD supervision
 -------
-- Juliette Pottier (2022-2025), **Cache memory protection**
+- Juliette Pottier (2022-2025), **Cache memory protection through obfuscation**
 - May Myat Thu (2021-2024), **Study of Side-Channel Vulnerabilities in Deep Learning FPGA Implementations of Computer Vision**
 - Safouane Noubir (2018-2021), **Investigation of Security Vulnerabilities of Energy Management on Multi-Core Architectures**
 
