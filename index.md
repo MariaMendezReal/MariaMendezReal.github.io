@@ -61,14 +61,14 @@ Research Projects & Fundings
     
 PhD supervision
 -------
-- Juliette Pottier (2022-2025), **Cache memory protection **
+- Juliette Pottier (2022-2025), **Cache memory protection**
 - May Myat Thu (2021-2024), **Study of Side-Channel Vulnerabilities in Deep Learning FPGA Implementations of Computer Vision**
 - Safouane Noubir (2018-2021), **Investigation of Security Vulnerabilities of Energy Management on Multi-Core Architectures**
 
 Other research responsabilities
 -------
 - **Co-referent of cyber security activities of IETR lab** (since 2019)
-- **Co-referent of [Transversal Axis CYbersecurité Matérielle (CYM)] (https://www.ietr.fr/cybersecurite-materielle-cym) of IETR lab** (since 2021)
+- **Co-referent of [Transversal Axis CYbersecurité Matérielle (CYM)](https://www.ietr.fr/cybersecurite-materielle-cym) of IETR lab** (since 2021)
 - **Referent of IETR lab and INSIS institute, member of the CNRS Cybersecurity _Miroir_ research group** (since 2021)
 - **Referent for EEA club** (since 2018)
 
