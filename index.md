@@ -71,7 +71,7 @@ Other research responsabilities
 
 CV
 -------
-[CV (short)](/v2pages_2022.pdf)
+[CV (short)](/cv2pages_2022.pdf)
 
 List of Publications
 -------
