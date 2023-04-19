@@ -64,14 +64,14 @@ PhD supervision
 
 Other research responsabilities
 -------
-- **Co-referent of cyber security activities of IETR lab** (since 2019)
+- **Referent of cyber security activities of IETR lab, ligerian perimeter** (since 2019)
 - **Co-referent of [Transversal Axis CYbersecurité Matérielle (CYM)](https://www.ietr.fr/cybersecurite-materielle-cym) of IETR lab** (since 2021)
 - **Referent of IETR lab and INSIS institute, member of the CNRS Cybersecurity _Miroir_ research group** (since 2021)
 - **Referent for EEA club** (since 2018)
 
 CV
 -------
-[CV (long)](/CV_2021_long.pdf)
+[CV (short)](/v2pages_2022.pdf)
 
 List of Publications
 -------
