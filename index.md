@@ -37,9 +37,6 @@ Research Projects & Fundings
 - **SecV: Processor obfuscation through dynamical instruction decoding** <br/>
   2022-2025<br/>
   Funding: ANR PRC (736KE)<br/>
-- **NOP: Safe and Effcient Intermittent Computing for a Batteryless IoT (scientific resp.)**<br/>
-  2021-2024<br/>
-  Funding: Cominlabs (380KE) <br/>
 - **SecureIoT (laureate, scientific leader)**<br/>
   2018-2021<br/>
   Funding: RFI WISE Attractivité (135KE)
