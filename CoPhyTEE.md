@@ -17,7 +17,7 @@ Instead of limiting or disabling these optimization mechanisms, in CoPhyTEE, we 
 from them to built a security governor able to detect at run-time possible vulnerable execution scenarios,
 
 ### Persons involved in the project
-- Dr. [Maria Méndez Real]([https://github.com/MariaMendezReal/MariaMendezReal.github.io](https://mariamendezreal.github.io/)), Nantes Université - IETR Lab, **Coordinator**
+- Dr. **[Maria Méndez Real](https://mariamendezreal.github.io/)**, Nantes Université - IETR Lab, **Coordinator**
 - Dr. Jean-Christophe Prévotet, INSA de Rennes - IETR Lab
 - Dr. Guillaume Bouffard, ANSSI
 - PhD student Owen Le-Gonidec, Nantes Université - IETR Lab
