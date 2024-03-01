@@ -1,5 +1,4 @@
-<?php $tab_menu_lien = array( "index.php", "CoPhyTEE.md", "livre_or.php", "equipe.php", "inscription.php", "connexion.php" );
-?>
+
 Associate Prof. Dr.-Ing. Maria Méndez Real <br/>
 ============
 
