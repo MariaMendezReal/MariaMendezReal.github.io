@@ -62,7 +62,9 @@ Research Projects & Fundings
 PhD supervision
 -------
 - Owen Le-Gonidec (2023-2026), **Securing TEE-enabled RISC-V Processor against Energy-based Attacks**
-- Juliette Pottier (2022-2025), **Cache memory protection through obfuscation**
+- Alla-Eddine Bahi (2023-2026), **Covert Channels on Air-Gap Computers** 
+- Juliette Pottier (2022-2025), **Cache memory Protection through Obfuscation**
+- Racim Boussa (2022-2025), **Approximation Computing impact on Side-Channel Attacks against Deep Learning Accelerators** 
 - May Myat Thu (2021-2024), **Study of Side-Channel Vulnerabilities in Deep Learning FPGA Implementations of Computer Vision**
 - Safouane Noubir (2018-2021), **Investigation of Security Vulnerabilities of Energy Management on Multi-Core Architectures**
 
@@ -73,6 +75,10 @@ Other research responsabilities
 - **Referent of IETR lab and INSIS institute, member of the CNRS Cybersecurity _Miroir_ research group** (since 2021)
 - **Referent for EEA club** (since 2018)
 
+Program Commitee member
+-------
+- TCHES'24, TCHES'23, DATE'24, VLSI-Security Track, among others
+  
 CV
 -------
 [CV (short)](/cv2pages_2022.pdf)
