@@ -28,7 +28,7 @@ This is within the collaboration with ANSSI. Scientific Advisory Board includes 
 
 ### Recent communications
 
-- Presentation and poster at [JAIF](https://jaif.io/2024/) (Journée thématique sur les Attaques par Injection de Fautes), available here; [presentation](), [poster]().
+- Presentation and poster at [JAIF](https://jaif.io/2024/) (Journée thématique sur les Attaques par Injection de Fautes), available here; [presentation](/JAIF_GwennLeGonidec.pdf), [poster](/JAIF_Poster.pdf).
 - Scientific article under submission "Do Not Trust Power Management: A Survey on Internal Energy-based Attacks Circumventing Trusted Execution Environments Security Properties", 2024, [pre-print version available here](https://doi.org/10.48550/arXiv.2405.15537).
 
 ### Funding
