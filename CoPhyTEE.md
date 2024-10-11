@@ -17,9 +17,9 @@ Instead of limiting or disabling these optimization mechanisms, in CoPhyTEE, we 
 from them to built a security governor able to detect at run-time possible vulnerable execution scenarios,
 
 ### Persons involved in the project
-- Dr. **[Maria Méndez Real](https://mariamendezreal.github.io/)**, Université Bretagne Sud - Lab-STICC Lab, **Coordinator**
-- Dr. Jean-Christophe Prévotet, INSA de Rennes - IETR 
+- Dr. **[Maria Méndez Real](https://mariamendezreal.github.io/)**, Université Bretagne Sud - Lab-STICC Lab, **Scientific Leader and Coordinator**
 - Dr. Guillaume Bouffard, ANSSI
+- Dr. Jean-Christophe Prévotet, INSA de Rennes - IETR
 - PhD student Owen Le-Gonidec, Université Bretagne Sud, Lab-STICC
   
 ### Collaborations
@@ -28,8 +28,8 @@ This is within the collaboration with ANSSI. Scientific Advisory Board includes 
 
 ### Recent communications
 
-- Presentation and poster at [JAIF](https://jaif.io/2024/) (Journée thématique sur les Attaques par Injection de Fautes), [available here]().
-- Scientific article under submission "Do Not Trust Power Management: A Survey on Internal Energy-based Attacks Circumventing Trusted Execution Environments Security Properties", 2024, [pre-print version available here](https://doi.org/10.48550/arXiv.2405.15537)
+- Presentation and poster at [JAIF](https://jaif.io/2024/) (Journée thématique sur les Attaques par Injection de Fautes), available here; [presentation](), [poster]().
+- Scientific article under submission "Do Not Trust Power Management: A Survey on Internal Energy-based Attacks Circumventing Trusted Execution Environments Security Properties", 2024, [pre-print version available here](https://doi.org/10.48550/arXiv.2405.15537).
 
 ### Funding
 
