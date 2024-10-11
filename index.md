@@ -1,4 +1,4 @@
-Associate Prof. Dr.-Ing. Maria Méndez Real <br/>
+Junior Professor Chair Dr.-Ing. Maria Méndez Real <br/>
 ============
 
 <img src="/Screenshot_20240307-161304.png" width="260" height="340" /> 
@@ -6,24 +6,28 @@ Associate Prof. Dr.-Ing. Maria Méndez Real <br/>
 Personal Info
 -----
 
-**[ECOLE POLYTECHNIQUE DE L'UNIVERSITE DE NANTES](https://www.univ-nantes.fr/)**<br/>
-**[IETR](https://www.ietr.fr/?lang=en) - UMR CNRS 6164 - ASIC team**
+**[UNIVERSITE BRETAGNE SUD](https://www.univ-ubs.fr/)**<br/>
+**[Lab-STICC](https://labsticc.fr/fr) - CNRS UMR 6285 - SHAKER research team**
 
-tel : 02-40-68-30-21 (483021)<br/>
-mail: maria.mendez@univ-nantes.fr
+mail: maria.mendez-real@univ-ubs.fr
 
 **Address**<br/>
-Rue Christian PAUC - La Chantrerie, BP 50609<br/>
-44306 Nantes Cedex 3 - FRANCE<br/>
-Bureau : C 110
+Université Bretagne Sud<br/>
+Laboratoire Lab-STICC - CNRS UMR 6285<br/>
+Centre de Recherche- CS7030<br/>
+F-56321 Lorient Cedex- FRANCE
+
 
 Short bio
 -------
 Originally from Mexico, Maria Méndez Real spent one year in the United States and lives in France since 2009.<br/>
-Since September 2018, Maria Méndez Real is Associate Professor (*Maitre de Conférences*) at Polytech Université de Nantes, France. Since 2014 she has been working in Hardware Security. Her reasearch activity is within IETR (*Institut d’Electronique et des Technologies du numéRique*, UMR CNRS 6164) lab. Her research interests are on  side-channel attacks, fault and remote attacks, embedded systems, multi and many-core systems and protoyping tools.<br/>
+Since September 2024, Maria Méndez Real holds the **Junior Professor Chair on Swarm of Autonomous and Trusted Maritime Drones** at UBS (*Université de Bretagne-Sud*), within Lab-STICC CNRS UMR 6285 lab in France. <br/>
+She is also **[scientific leader and coordinator of CoPhyTEE](https://MariaMendezReal.github.io/CoPhyTEE.html) ANR JCJC Project**.<br/>
+Before she was Associate Professor (*Maitre de Conférences*) at Polytech Université de Nantes, France from 2018 to 2024. 
+Since 2014 she has been working in Hardware Security. Her reasearch activity is within IETR (*Institut d’Electronique et des Technologies du numéRique*, UMR CNRS 6164) lab. Her research interests are on  side-channel attacks, fault and remote attacks, embedded systems, multi and many-core systems and protoyping tools.<br/>
 From 2017 to 2018 she was an Assistant Professor (*ATER*) at Polytech Université de Nantes.<br/>
 In 2015 she was invited researcher at the Ruhr-University of Bochum (RUB), Germany. She worked on virtual prototyping tools for evaluating multi core architectures security.<br/>
-In 2017, she received her PhD, european label, in Electronic Engineering - Hardware Security from UBS (*Université de Bretagne-Sud*), within Lab-STICC UMR 6285 lab in France. Her PhD work was on the frame of the French ANR TSUNAMY project (2013-2017) and deal with secure-enable mechanisms for the physical isolation of sensitive applications on many-core architectures.<br/>
+In 2017, she received her PhD, european label, in Electronic Engineering - Hardware Security from UBS (*Université de Bretagne-Sud*), within Lab-STICC CNRS UMR 6285 lab in France. Her PhD work was on the frame of the French ANR TSUNAMY project (2013-2017) and deal with secure-enable mechanisms for the physical isolation of sensitive applications on many-core architectures.<br/>
 Before that, she received her master (Dipl.-Ing.) in Electrical and Computer from UBS in 2014.<br/>
 She is author and co-author in international journals, conferences and workshops (TECS, TC, DATE, JSA, FPL, SAMOS, VLSI, etc). She is PC member and reviwer of several international journals and conferences (VLSI, JCEN, DATE, NEWCAS, FPT, TCAD, LASCAS, MCSoC, ICCS).<br/>
 **She is PC member of TCHES 2023, 2024.**<br/>
@@ -70,10 +74,10 @@ PhD supervision
 
 Other research responsabilities
 -------
-- **Referent of cyber security activities of IETR lab, ligerian perimeter** (since 2019)
-- **Co-referent of [Transversal Axis CYbersecurité Matérielle (CYM)](https://www.ietr.fr/cybersecurite-materielle-cym) of IETR lab** (since 2021)
-- **Referent of IETR lab and INSIS institute, member of the CNRS Cybersecurity _Miroir_ research group** (since 2021)
-- **Referent for EEA club** (since 2018)
+- **Referent of cyber security activities of IETR lab, ligerian perimeter** (2019 - 2024)
+- **Co-referent of Transversal Axis CYbersecurité Matérielle (CYM) of IETR lab** (2021-2024)
+- **Referent of IETR lab and INSIS institute, member of the CNRS Cybersecurity _Miroir_ research group** (2021)
+- **Referent for EEA club** (2018-2024)
 
 Program Commitee member
 -------
