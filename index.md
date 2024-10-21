@@ -21,16 +21,16 @@ F-56321 Lorient Cedex- FRANCE
 Short bio
 -------
 Originally from Mexico, Maria Méndez Real spent one year in the United States and lives in France since 2009.<br/>
-Since September 2024, Maria Méndez Real holds the **Junior Professor Chair on Swarm of Autonomous and Trusted Maritime Drones** at UBS (*Université de Bretagne-Sud*), within Lab-STICC CNRS UMR 6285 lab in France. <br/>
-She is also **[scientific leader and coordinator of CoPhyTEE](https://MariaMendezReal.github.io/CoPhyTEE.html) ANR JCJC Project**.<br/>
-Before, she was Associate Professor (*Maitre de Conférences*) at Polytech Nantes Université, France from 2018 to 2024. 
-Since 2014 she has been working in Hardware Security. Her reasearch activity is within Lab-STICC (*Laboratoire des Sciences et Technologies de l'Information, de la Communication et de la Connaissance*, UMR CNRS 6285) lab. Her research interests are on  side-channel attacks, fault and remote attacks, embedded systems, and machine learning implementation security.<br/>
-From 2017 to 2018 she was an Assistant Professor (*ATER*) at Polytech Nantes Université.<br/>
-In 2015 she was invited researcher at the Ruhr-University of Bochum (RUB), Germany. She worked on virtual prototyping tools for evaluating multi core architectures security.<br/>
-In 2017, she received her PhD, european label, in Electronic Engineering - Hardware Security from UBS (*Université de Bretagne-Sud*), within Lab-STICC CNRS UMR 6285 lab in France. Her PhD work was on the frame of the French ANR TSUNAMY project (2013-2017) and deal with secure-enable mechanisms for the physical isolation of sensitive applications on many-core architectures.<br/>
+Since September 2024, Maria Méndez Real holds the **Junior Professor Chair on Swarm of Autonomous and Trusted Maritime Drones** at UBS (*Université de Bretagne-Sud*), within Lab-STICC (*Laboratoire des Sciences et Technologies de l'Information, de la Communication et de la Connaissance*, UMR CNRS 6285) in France. <br/>
+Since 2014 she has been working in Hardware Security. Her reasearch interests include side-channel attacks, fault and remote attacks, embedded systems, and machine learning implementation security.<br/>
+Maria is **[scientific leader and coordinator of CoPhyTEE](https://MariaMendezReal.github.io/CoPhyTEE.html) ANR JCJC Project**.<br/>
+
+From 2018 to 2024, she was Associate Professor (*Maitre de Conférences*) at Polytech Nantes Université, France. 
+Before, she was an Assistant Professor (*ATER*) from 2017 to 2018.<br/>
+She received her PhD, european label, in Electronic Engineering - Hardware Security from UBS, within Lab-STICC CNRS UMR 6285 lab in France. Her PhD work was on the frame of the French ANR TSUNAMY project (2013-2017) and deal with secure-enable mechanisms for the physical isolation of sensitive applications on many-core architectures.<br/>
+In 2015 Maria was invited researcher at the Ruhr-University of Bochum (RUB), Germany. She worked on virtual prototyping tools for evaluating multi core architectures security.<br/>
 Before that, she received her master (Dipl.-Ing.) in Electrical and Computer from UBS in 2014.<br/>
-She is author and co-author in international journals, conferences and workshops (TECS, TC, DATE, JSA, FPL, SAMOS, VLSI, etc). She is PC member and reviwer of several international journals and conferences (VLSI, JCEN, DATE, NEWCAS, FPT, TCAD, LASCAS, MCSoC, ICCS).<br/>
-**She is PC member of TCHES 2023, 2024.**<br/>
+Maria Méndez Real is author and co-author in international journals, conferences and workshops (TECS, TC, DATE, JSA, FPL, SAMOS, VLSI, etc). She is PC member and reviwer of several international journals and conferences (VLSI, JCEN, DATE, NEWCAS, FPT, TCAD, LASCAS, MCSoC, ICCS), and **she is PC member of TCHES 2023, 2024, top venue in her field.**<br/>
 She actively participates on national project evaluation (ANR projects, PEC, regional, etc) and jurys for recrutement of Associate Professors and PhD following and defense jurys.
 
 Research Projects & Fundings
