@@ -22,8 +22,8 @@ Short bio
 -------
 Originally from Mexico, Maria Méndez Real spent one year in the United States and lives in France since 2009.<br/>
 Since September 2024, Maria Méndez Real holds the **Junior Professor Chair on Swarm of Autonomous and Trusted Maritime Drones** at UBS (*Université de Bretagne-Sud*), within Lab-STICC (*Laboratoire des Sciences et Technologies de l'Information, de la Communication et de la Connaissance*, UMR CNRS 6285) in France. <br/>
-Since 2014 she has been working in Hardware Security. Her reasearch interests include side-channel attacks, fault and remote attacks, embedded systems, and machine learning implementation security.<br/>
-Maria is **[scientific leader and coordinator of CoPhyTEE](https://MariaMendezReal.github.io/CoPhyTEE.html) ANR JCJC Project**.<br/>
+Maria has been working in Hardware Security since 2014. Her reasearch interests include side-channel attacks, fault and remote attacks, embedded systems, and machine learning implementation security.<br/>
+Maria is **scientific leader and coordinator of [CoPhyTEE](https://MariaMendezReal.github.io/CoPhyTEE.html) ANR JCJC Project**.<br/>
 
 From 2018 to 2024, she was Associate Professor (*Maitre de Conférences*) at Polytech Nantes Université, France. 
 Before, she was an Assistant Professor (*ATER*) from 2017 to 2018.<br/>
