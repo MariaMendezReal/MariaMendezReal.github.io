@@ -1,7 +1,7 @@
 Junior Professor Chair Dr.-Ing. Maria Méndez Real <br/>
 ============
 
-<img src="/Screenshot_20240307-161304.png" width="260" height="340" /> 
+<img src="/MENDEZ-REAL Maria 01.jpg" width="230" height="340" /> 
 
 Personal Info
 -----
