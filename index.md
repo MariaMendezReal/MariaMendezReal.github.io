@@ -88,16 +88,15 @@ CV
 -------
 [CV (short)](/cv2pages_2022.pdf)
 
-
-Recent Journals
--------
-- *DynHaMo: Dynamic Hardware-based Monitoring dedicated
-to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, ACM TECS, 2025.
-- *Do Not Trust Power Management: Challenges and Hints for Securing Future Trusted Execution Environments*, G. Le-Gonidec, G. Bouffard, J-P. Prévotet, M. Méndez Real, ACM TECS, 2025.
-
 List of Publications
 -------
 https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
+
+**Recent Journals**
+
+- *DynHaMo: Dynamic Hardware-based Monitoring dedicated
+to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, ACM TECS, 2025.
+- *Do Not Trust Power Management: Challenges and Hints for Securing Future Trusted Execution Environments*, G. Le-Gonidec, G. Bouffard, J-P. Prévotet, M. Méndez Real, ACM TECS, 2025.
 
 List of open-source projects
 -------
