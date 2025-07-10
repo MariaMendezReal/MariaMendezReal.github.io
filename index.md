@@ -92,7 +92,7 @@ List of Publications
 -------
 https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
 
-**Recent Journals**
+**Recent Journals (2025)**
 
 - *DynHaMo: Dynamic Hardware-based Monitoring dedicated
 to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, ACM TECS, 2025.
