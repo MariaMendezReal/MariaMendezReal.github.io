@@ -30,7 +30,8 @@ Before, she was an Assistant Professor (*ATER*) from 2017 to 2018.<br/>
 She received her PhD, european label, in Electronic Engineering - Hardware Security from UBS, within Lab-STICC CNRS UMR 6285 lab in France. Her PhD work was on the frame of the French ANR TSUNAMY project (2013-2017) and deal with secure-enable mechanisms for the physical isolation of sensitive applications on many-core architectures.<br/>
 In 2015 Maria was invited researcher at the Ruhr-University of Bochum (RUB), Germany. She worked on virtual prototyping tools for evaluating multi core architectures security.<br/>
 Before that, she received her master (Dipl.-Ing.) in Electrical and Computer from UBS in 2014.<br/>
-Maria Méndez Real is author and co-author in international journals, conferences and workshops (TECS, TC, DATE, JSA, FPL, SAMOS, VLSI, etc). She is PC member and reviwer of several international journals and conferences (VLSI, JCEN, DATE, NEWCAS, FPT, TCAD, LASCAS, MCSoC, ICCS), and **she is PC member of TCHES 2023, 2024, top venue in her field.**<br/>
+
+Maria Méndez Real is author and co-author in international journals, conferences and workshops (TECS, TC, HOST, DATE, JSA, FPL, SAMOS, VLSI, etc). She is PC member and reviwer of several international journals and conferences (VLSI, JCEN, DATE, NEWCAS, FPT, TCAD, LASCAS, MCSoC, ICCS), and **she is PC member of TCHES 2023, 2024, top venue in her field.**<br/>
 She actively participates on national project evaluation (ANR projects, PEC, regional, etc) and jurys for recrutement of Associate Professors and PhD following and defense jurys.
 
 Research Projects & Fundings
