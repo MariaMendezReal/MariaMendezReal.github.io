@@ -66,8 +66,8 @@ Research Projects & Fundings
     
 PhD supervision
 -------
-- Tsion Fikadu (2025 - ), **Embedded Dectection of Drone Deviane Behavior**
-- Mohcine Kaddi (2025 - ), **Trusted Embedded Distributed IA**
+- Tsion Fikadu (2025 - ), **Embedded Detection of Drone Deviant Behavior**
+- Mohcine Kaddi (2025 - ), **Trusted Embedded and Distributed IA**
 - Eliott Quéré (2024-2027), **Security Analysis on Heterogeneous Systems on Chip**
 - Owen Le-Gonidec (2023-2026), **Securing TEE-enabled RISC-V Processor against Energy-based Attacks**
 - Alla-Eddine Bahi (2023-2026), **Covert Channels on Air-Gap Computers** 
