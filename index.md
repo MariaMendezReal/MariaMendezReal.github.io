@@ -65,12 +65,32 @@ Research Projects & Fundings
     
 PhD supervision
 -------
+- Tsion Fikadu (2025 - ), **Embedded Dectection of Drone Deviane Behavior**
+- Mohcine Kaddi (2025 - ), **Trusted Embedded Distributed IA**
 - Eliott Quéré (2024-2027), **Security Analysis on Heterogeneous Systems on Chip**
 - Owen Le-Gonidec (2023-2026), **Securing TEE-enabled RISC-V Processor against Energy-based Attacks**
 - Alla-Eddine Bahi (2023-2026), **Covert Channels on Air-Gap Computers** 
 - Juliette Pottier (2022-2025), **Cache memory Protection through Obfuscation**
 - May Myat Thu (2021-2024), **Study of Side-Channel Vulnerabilities in Deep Learning FPGA Implementations of Computer Vision**
 - Safouane Noubir (2018-2021), **Investigation of Security Vulnerabilities of Energy Management on Multi-Core Architectures**
+
+List of Publications
+-------
+https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
+
+**Recent Publications (2025)**
+--------
+**Journals**
+- *DynHaMo: Dynamic Hardware-based Monitoring dedicated
+to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, ACM TECS, 2025.
+- *Do Not Trust Power Management: Challenges and Hints for Securing Future Trusted Execution Environments*, G. Le-Gonidec, G. Bouffard, J-P. Prévotet, M. Méndez Real, ACM TECS, 2025.
+  
+**Conferences**
+- *Double Strike: Breaking Approximation-based Side-Channel Countermeasures for DNNs*, L. Casalino, M. Méndez Real, JC. Prévotet, R. Salvador, HOST, 2026.
+
+Program Commitee member
+-------
+- TCHES'23-24, DATE'24-26, VLSI-Security Track, among others
 
 Other research responsabilities
 -------
@@ -79,24 +99,10 @@ Other research responsabilities
 - **Co-referent of Transversal Axis CYbersecurité Matérielle (CYM) of IETR lab** (2021-2024)
 - **Referent of IETR lab and INSIS institute, member of the CNRS Cybersecurity _Miroir_ research group** (2021)
 - **Referent for EEA club** (2018-2024)
-
-Program Commitee member
--------
-- TCHES'24, TCHES'23, DATE'24, DATE'25, VLSI-Security Track, among others
   
 CV
 -------
 [CV (short)](/cv2pages_2022.pdf)
-
-List of Publications
--------
-https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
-
-**Recent Journals (2025)**
-
-- *DynHaMo: Dynamic Hardware-based Monitoring dedicated
-to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, ACM TECS, 2025.
-- *Do Not Trust Power Management: Challenges and Hints for Securing Future Trusted Execution Environments*, G. Le-Gonidec, G. Bouffard, J-P. Prévotet, M. Méndez Real, ACM TECS, 2025.
 
 List of open-source projects
 -------
