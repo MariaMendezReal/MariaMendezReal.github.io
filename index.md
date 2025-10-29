@@ -25,7 +25,7 @@ Since September 2024, Maria Méndez Real holds the **Junior Professor Chair on S
 Maria has been working in Hardware Security since 2014. Her reasearch interests include side-channel attacks, fault and remote attacks, embedded systems, and machine learning implementation security.<br/>
 Maria is **scientific leader and coordinator of [CoPhyTEE](https://MariaMendezReal.github.io/CoPhyTEE.html) ANR JCJC Project**.<br/>
 
-From 2018 to 2024, she was Associate Professor (*Maitre de Conférences*) at Polytech Nantes Université, France. 
+From 2018 to 2024, she has been Associate Professor (*Maitre de Conférences*) at Polytech Nantes Université, France. 
 Before, she was an Assistant Professor (*ATER*) from 2017 to 2018.<br/>
 She received her PhD, european label, in Electronic Engineering - Hardware Security from UBS, within Lab-STICC CNRS UMR 6285 lab in France. Her PhD work was on the frame of the French ANR TSUNAMY project (2013-2017) and deal with secure-enable mechanisms for the physical isolation of sensitive applications on many-core architectures.<br/>
 In 2015 Maria was invited researcher at the Ruhr-University of Bochum (RUB), Germany. She worked on virtual prototyping tools for evaluating multi core architectures security.<br/>
@@ -98,9 +98,9 @@ Program Commitee member
 
 Other research responsabilities
 -------
-- **Referent of CPER Maritime Drones - Lab-STICC (2024-2027)**
-- **Committee member of GdR Sécurité Informatique (since 2024)**
-- **Committee member of SemSecuElec INRIA/DGA Seminars**
+- **Referent of CPER Maritime Drones - Lab-STICC** (2024-2027)
+- **Committee member of GdR Sécurité Informatique** (since 2024)
+- **Committee member of SemSecuElec INRIA/DGA Seminars** (since 2024)
 - **Referent of cyber security activities of IETR lab, ligerian perimeter** (2019 - 2024)
 - **Co-referent of Transversal Axis CYbersecurité Matérielle (CYM) of IETR lab** (2021-2024)
 - **Referent of IETR lab and INSIS institute, member of the CNRS Cybersecurity _Miroir_ research group** (2021)
