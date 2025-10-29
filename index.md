@@ -39,6 +39,9 @@ Research Projects & Fundings
 - **[CoPhyTEE: Addressing Covert & Physical Attacks performed from SW in Open-Hardware Trusted Execution Environment-enabled System-on-Chip](https://MariaMendezReal.github.io/CoPhyTEE.html) (Laureate, Coordinator)**<br/>
   2023-2027<br/>
   Funding: ANR JCJC - Jeunes Chercheuses et Jeunes Chercheurs (252KE)<br/>
+- **SecDRONE (Scientific leader): Embedded Detection of Deviant Drone Behavior**<br/> 
+  2024-2027<br/>
+  Funding: DGA through PEC (Pôle d'Excellence Cyber) (140KE)<br/>
 - **VAVIECA: Side-Channel Attacks vulnerabilities on FPGA Deep Neural Networks implementions (Scientific leader)**<br/>
   2021-2024<br/>
   Funding: DGA through PEC (Pôle d'Excellence Cyber) (140KE)<br/>
@@ -95,7 +98,9 @@ Program Commitee member
 
 Other research responsabilities
 -------
-- **Referent of CPER Maritime Drones - Lab-STICC (2024-)**
+- **Referent of CPER Maritime Drones - Lab-STICC (2024-2027)**
+- **Committee member of GdR Sécurité Informatique (since 2024)**
+- **Committee member of SemSecuElec INRIA/DGA Seminars**
 - **Referent of cyber security activities of IETR lab, ligerian perimeter** (2019 - 2024)
 - **Co-referent of Transversal Axis CYbersecurité Matérielle (CYM) of IETR lab** (2021-2024)
 - **Referent of IETR lab and INSIS institute, member of the CNRS Cybersecurity _Miroir_ research group** (2021)
