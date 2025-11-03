@@ -98,6 +98,7 @@ Program Commitee member
 
 Other research responsabilities
 -------
+- **Member of doctoral thesis award of GdR Sécurité Informatique (Prix de thèse)** (since 2025)
 - **Referent of CPER Maritime Drones - Lab-STICC** (2024-2027)
 - **Committee member of GdR Sécurité Informatique** (since 2024)
 - **Committee member of SemSecuElec INRIA/DGA Seminars** (since 2024)
