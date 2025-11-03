@@ -36,6 +36,9 @@ She actively participates on national project evaluation (ANR projects, PEC, reg
 
 Research Projects & Fundings
 -------
+- **Chair on Swarm of Autonomous and Trusted Maritime Drones (Chair Leader)**<br/>
+2024-2028<br/>
+Funding: ANR <br/>
 - **[CoPhyTEE: Addressing Covert & Physical Attacks performed from SW in Open-Hardware Trusted Execution Environment-enabled System-on-Chip](https://MariaMendezReal.github.io/CoPhyTEE.html) (Laureate, Coordinator)**<br/>
   2023-2027<br/>
   Funding: ANR JCJC - Jeunes Chercheuses et Jeunes Chercheurs (252KE)<br/>
