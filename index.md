@@ -94,6 +94,10 @@ to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, AC
   
 **Conferences**
 - *Double Strike: Breaking Approximation-based Side-Channel Countermeasures for DNNs*, L. Casalino, M. Méndez Real, JC. Prévotet, R. Salvador, HOST, 2026.
+  
+- BAHI, Mohamed Alla Eddine, REAL, Maria MENDEZ, et PELCAT, Maxime. Comb frequency division multiplexing: A non-binary modulation for airgap covert channel transmission. In : 2025 Design, Automation & Test in Europe Conference (DATE). IEEE, 2025. p. 1-2.
+
+- M. A. E. BAHI, M. MENDEZ REAL, E. NOGUES and M. PEKCAT, "AudioGap: An AirGapped Covert Channel Exploiting the Frequency Diversity of Audio IC Electromagnetic Leakage," 2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC), Toronto, ON, Canada, 2025, pp. 989-994, doi: 10.1109/COMPSAC65507.2025.00128. 
 
 Program Commitee member
 -------
