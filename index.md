@@ -34,6 +34,25 @@ Before that, she received her master (Dipl.-Ing.) in Electrical and Computer fro
 Maria Méndez Real is author and co-author in international journals, conferences and workshops (TECS, TC, HOST, DATE, JSA, FPL, SAMOS, VLSI, etc). She is PC member and reviwer of several international journals and conferences (VLSI, JCEN, DATE, NEWCAS, FPT, TCAD, LASCAS, MCSoC, ICCS), and **she is PC member of TCHES 2023, 2024, top venue in her field.**<br/>
 She actively participates on national project evaluation (ANR projects, PEC, regional, etc) and jurys for recrutement of Associate Professors and PhD following and defense jurys.
 
+List of Publications
+-------
+https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
+
+**Recent Publications (2025)**
+--------
+**Journals**
+- *DynHaMo: Dynamic Hardware-based Monitoring dedicated
+to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, ACM Transactions on Embedded Computing Systems (TECS), 2025.
+
+- *Do Not Trust Power Management: Challenges and Hints for Securing Future Trusted Execution Environments*, G. Le-Gonidec, G. Bouffard, J-P. Prévotet, M. Méndez Real, ACM Transactions on Embedded Computing Systems (TECS), 2025.
+  
+**Conferences**
+- *Double Strike: Breaking Approximation-based Side-Channel Countermeasures for DNNs*, L. Casalino, M. Méndez Real, JC. Prévotet, R. Salvador, IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2026.
+  
+- *Comb frequency division multiplexing: A non-binary modulation for airgap covert channel transmission*, BAHI, Mohamed Alla Eddine, REAL, Maria MENDEZ, et PELCAT, Maxime. In : 2025 Design, Automation & Test in Europe Conference (DATE). IEEE, 2025. p. 1-2.
+
+- *AudioGap: An AirGapped Covert Channel Exploiting the Frequency Diversity of Audio IC Electromagnetic Leakage*, M. A. E. BAHI, M. MENDEZ REAL, E. NOGUES and M. PELCAT, 2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC), Toronto, ON, Canada, 2025, pp. 989-994, doi: 10.1109/COMPSAC65507.2025.00128.
+  
 Research Projects & Fundings
 -------
 - **Chair on Swarm of Autonomous and Trusted Maritime Drones (Chair Leader)**<br/>
@@ -81,26 +100,7 @@ PhD supervision
 - May Myat Thu (2021-2024), **Study of Side-Channel Vulnerabilities in Deep Learning FPGA Implementations of Computer Vision**
 - Safouane Noubir (2018-2021), **Investigation of Security Vulnerabilities of Energy Management on Multi-Core Architectures**
 
-List of Publications
--------
-https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
-
-**Recent Publications (2025)**
---------
-**Journals**
-- *DynHaMo: Dynamic Hardware-based Monitoring dedicated
-to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, ACM TECS, 2025.
-
-- *Do Not Trust Power Management: Challenges and Hints for Securing Future Trusted Execution Environments*, G. Le-Gonidec, G. Bouffard, J-P. Prévotet, M. Méndez Real, ACM TECS, 2025.
-  
-**Conferences**
-- *Double Strike: Breaking Approximation-based Side-Channel Countermeasures for DNNs*, L. Casalino, M. Méndez Real, JC. Prévotet, R. Salvador, IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2026.
-  
-- *Comb frequency division multiplexing: A non-binary modulation for airgap covert channel transmission*, BAHI, Mohamed Alla Eddine, REAL, Maria MENDEZ, et PELCAT, Maxime. In : 2025 Design, Automation & Test in Europe Conference (DATE). IEEE, 2025. p. 1-2.
-
-- *AudioGap: An AirGapped Covert Channel Exploiting the Frequency Diversity of Audio IC Electromagnetic Leakage*, M. A. E. BAHI, M. MENDEZ REAL, E. NOGUES and M. PELCAT, 2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC), Toronto, ON, Canada, 2025, pp. 989-994, doi: 10.1109/COMPSAC65507.2025.00128. 
-
-Program Commitee member
+Conferences and journal Program Commitee member
 -------
 - TCHES'23-24, DATE'24-26, VLSI-Security Track, among others
 
