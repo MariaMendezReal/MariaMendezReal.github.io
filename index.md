@@ -38,7 +38,7 @@ List of Publications
 -------
 https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
 
-**Recent Publications (2025)**
+**Recent Publications (since 2025)**
 --------
 **Journals**
 - *DynHaMo: Dynamic Hardware-based Monitoring dedicated
@@ -48,6 +48,8 @@ to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, AC
   
 **Conferences**
 - *Double Strike: Breaking Approximation-based Side-Channel Countermeasures for DNNs*, L. Casalino, M. Méndez Real, JC. Prévotet, R. Salvador, IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2026.
+
+- *UAVLnQ: An Architecture for Security Analysisof Cyber-Physical Network Behavior in UAVSwarms*, A. Yousef, C. Tsai, N. N. Mistry, M. Méndez Real, and G. Gogniat, Workshop on Design and Architectures for Signal and Image Processing (DASIP), 2026.
   
 - *Comb frequency division multiplexing: A non-binary modulation for airgap covert channel transmission*, BAHI, Mohamed Alla Eddine, REAL, Maria MENDEZ, et PELCAT, Maxime. In : 2025 Design, Automation & Test in Europe Conference (DATE). IEEE, 2025. p. 1-2.
 
