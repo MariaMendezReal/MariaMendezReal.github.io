@@ -119,7 +119,7 @@ Other research responsabilities
   
 CV
 -------
-[CV (short)](/cv2pages_2022.pdf)
+[CV (short)](/CV_SHORT_2025.pdf)
 
 List of open-source projects
 -------
