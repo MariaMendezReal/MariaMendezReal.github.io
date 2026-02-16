@@ -41,12 +41,13 @@ https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
 **Recent Publications (since 2025)**
 --------
 **Journals**
-- *DynHaMo: Dynamic Hardware-based Monitoring dedicated
-to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, ACM Transactions on Embedded Computing Systems (TECS), 2025.
+- *DynHaMo: Dynamic Hardware-based Monitoring dedicated to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, ACM Transactions on Embedded Computing Systems (TECS), 2025.
 
 - *Do Not Trust Power Management: Challenges and Hints for Securing Future Trusted Execution Environments*, G. Le-Gonidec, G. Bouffard, J-P. Prévotet, M. Méndez Real, ACM Transactions on Embedded Computing Systems (TECS), 2025.
   
 **Conferences**
+- *A Lightweight Embedded Detection System against Voltage Drop Fault Attacks in Multi-Tenant FPGAs*, Gwenn Le Gonidec, Guillaume Bouffard, Jean-Christophe Prévotet and M. Méndez Real, Constructive Approaches for SeCurity Analysis and Design of Embedded systems (CASCADE), 2026.
+  
 - *Double Strike: Breaking Approximation-based Side-Channel Countermeasures for DNNs*, L. Casalino, M. Méndez Real, JC. Prévotet, R. Salvador, IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2026.
 
 - *UAVLnQ: An Architecture for Security Analysis of Cyber-Physical Network Behavior in UAVSwarms*, A. Yousef, C. Tsai, N. N. Mistry, M. Méndez Real, and G. Gogniat, Workshop on Design and Architectures for Signal and Image Processing (DASIP), 2026.
