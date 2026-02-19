@@ -41,20 +41,22 @@ https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
 **Recent Publications (since 2025)**
 --------
 **Journals**
-- *DynHaMo: Dynamic Hardware-based Monitoring dedicated to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, ACM Transactions on Embedded Computing Systems (TECS), 2025.
+- *DynHaMo: Dynamic Hardware-based Monitoring dedicated to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, ACM Transactions on Embedded Computing Systems (**TECS**), 2025.
 
-- *Do Not Trust Power Management: Challenges and Hints for Securing Future Trusted Execution Environments*, G. Le-Gonidec, G. Bouffard, J-P. Prévotet, M. Méndez Real, ACM Transactions on Embedded Computing Systems (TECS), 2025.
+- *Do Not Trust Power Management: Challenges and Hints for Securing Future Trusted Execution Environments*, G. Le-Gonidec, G. Bouffard, J-P. Prévotet, M. Méndez Real, ACM Transactions on Embedded Computing Systems (**TECS**), 2025.
   
 **Conferences**
-- *A Lightweight Embedded Detection System against Voltage Drop Fault Attacks in Multi-Tenant FPGAs*, Gwenn Le Gonidec, Guillaume Bouffard, Jean-Christophe Prévotet and M. Méndez Real, Constructive Approaches for SeCurity Analysis and Design of Embedded systems (CASCADE), 2026. Open source code available at: https://sourcesup.renater.fr/projects/detectionva/
+- *A Lightweight Embedded Detection System against Voltage Drop Fault Attacks in Multi-Tenant FPGAs*, Gwenn Le Gonidec, Guillaume Bouffard, Jean-Christophe Prévotet and M. Méndez Real, Constructive Approaches for SeCurity Analysis and Design of Embedded systems (**CASCADE**), 2026. Open source code available at: https://sourcesup.renater.fr/projects/detectionva/
   
-- *Double Strike: Breaking Approximation-based Side-Channel Countermeasures for DNNs*, L. Casalino, M. Méndez Real, JC. Prévotet, R. Salvador, IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2026.
+- *Double Strike: Breaking Approximation-based Side-Channel Countermeasures for DNNs*, L. Casalino, M. Méndez Real, JC. Prévotet, R. Salvador, IEEE International Symposium on Hardware Oriented Security and Trust (**HOST**), 2026.
 
-- *UAVLnQ: An Architecture for Security Analysis of Cyber-Physical Network Behavior in UAVSwarms*, A. Yousef, C. Tsai, N. N. Mistry, M. Méndez Real, and G. Gogniat, Workshop on Design and Architectures for Signal and Image Processing (DASIP), 2026. Open source code available at: https://github.com/Wh02m1/UAVLnQ 
+- *UAVLnQ: An Architecture for Security Analysis of Cyber-Physical Network Behavior in UAVSwarms*, A. Yousef, C. Tsai, N. N. Mistry, M. Méndez Real, and G. Gogniat, Workshop on Design and Architectures for Signal and Image Processing (**DASIP**), 2026. Open source code available at: https://github.com/Wh02m1/UAVLnQ
+
+- *DynHaMo: Dynamic Hardware-based Monitoring dedicated to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, Conference on Hardware/Software Codesign and System Synthesis (**CODES+ISSS**), 2025.
   
-- *Comb frequency division multiplexing: A non-binary modulation for airgap covert channel transmission*, BAHI, Mohamed Alla Eddine, REAL, Maria MENDEZ, et PELCAT, Maxime. In : 2025 Design, Automation & Test in Europe Conference (DATE). IEEE, 2025. p. 1-2.
+- *Comb frequency division multiplexing: A non-binary modulation for airgap covert channel transmission*, BAHI, Mohamed Alla Eddine, REAL, Maria MENDEZ, et PELCAT, Maxime. In : 2025 Design, Automation & Test in Europe Conference (**DATE**). IEEE, 2025. p. 1-2.
 
-- *AudioGap: An AirGapped Covert Channel Exploiting the Frequency Diversity of Audio IC Electromagnetic Leakage*, M. A. E. BAHI, M. MENDEZ REAL, E. NOGUES and M. PELCAT, 2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC), Toronto, ON, Canada, 2025, pp. 989-994, doi: 10.1109/COMPSAC65507.2025.00128.
+- *AudioGap: An AirGapped Covert Channel Exploiting the Frequency Diversity of Audio IC Electromagnetic Leakage*, M. A. E. BAHI, M. MENDEZ REAL, E. NOGUES and M. PELCAT, 2025 IEEE 49th Annual Computers, Software, and Applications Conference (**COMPSAC**), Toronto, ON, Canada, 2025, pp. 989-994, doi: 10.1109/COMPSAC65507.2025.00128.
   
 Research Projects & Fundings
 -------
