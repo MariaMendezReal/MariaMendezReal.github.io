@@ -46,11 +46,11 @@ https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
 - *Do Not Trust Power Management: Challenges and Hints for Securing Future Trusted Execution Environments*, G. Le-Gonidec, G. Bouffard, J-P. Prévotet, M. Méndez Real, ACM Transactions on Embedded Computing Systems (TECS), 2025.
   
 **Conferences**
-- *A Lightweight Embedded Detection System against Voltage Drop Fault Attacks in Multi-Tenant FPGAs*, Gwenn Le Gonidec, Guillaume Bouffard, Jean-Christophe Prévotet and M. Méndez Real, Constructive Approaches for SeCurity Analysis and Design of Embedded systems (CASCADE), 2026.
+- *A Lightweight Embedded Detection System against Voltage Drop Fault Attacks in Multi-Tenant FPGAs*, Gwenn Le Gonidec, Guillaume Bouffard, Jean-Christophe Prévotet and M. Méndez Real, Constructive Approaches for SeCurity Analysis and Design of Embedded systems (CASCADE), 2026. Open source code available at: https://sourcesup.renater.fr/projects/detectionva/
   
 - *Double Strike: Breaking Approximation-based Side-Channel Countermeasures for DNNs*, L. Casalino, M. Méndez Real, JC. Prévotet, R. Salvador, IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2026.
 
-- *UAVLnQ: An Architecture for Security Analysis of Cyber-Physical Network Behavior in UAVSwarms*, A. Yousef, C. Tsai, N. N. Mistry, M. Méndez Real, and G. Gogniat, Workshop on Design and Architectures for Signal and Image Processing (DASIP), 2026.
+- *UAVLnQ: An Architecture for Security Analysis of Cyber-Physical Network Behavior in UAVSwarms*, A. Yousef, C. Tsai, N. N. Mistry, M. Méndez Real, and G. Gogniat, Workshop on Design and Architectures for Signal and Image Processing (DASIP), 2026. Open source code available at: https://github.com/Wh02m1/UAVLnQ 
   
 - *Comb frequency division multiplexing: A non-binary modulation for airgap covert channel transmission*, BAHI, Mohamed Alla Eddine, REAL, Maria MENDEZ, et PELCAT, Maxime. In : 2025 Design, Automation & Test in Europe Conference (DATE). IEEE, 2025. p. 1-2.
 
@@ -67,6 +67,10 @@ Funding: ANR <br/>
 - **SecDRONE (Scientific leader): Embedded Detection of Deviant Drone Behavior**<br/> 
   2024-2027<br/>
   Funding: DGA through PEC (Pôle d'Excellence Cyber) (140KE)<br/>
+- **Micro Samba: Développement d’une Meute de micro-AUVs intelligents et d’un micro-SAS pour des Missions adaptatives avec des levées de doute roBotisés Automatiques et une très large couverture de zone(Participant)**<br/>
+  2026-2029<br/>
+  Partners: UBS, Pytheas technology, Seaber
+  Funding: BPI France2030 (3,5ME, 600KE (UBS))<br/>
 - **VAVIECA: Side-Channel Attacks vulnerabilities on FPGA Deep Neural Networks implementions (Scientific leader)**<br/>
   2021-2024<br/>
   Funding: DGA through PEC (Pôle d'Excellence Cyber) (140KE)<br/>
@@ -110,7 +114,7 @@ Conferences and journal Program Commitee member
 Other research responsabilities
 -------
 - **Member of doctoral thesis award of GdR Sécurité Informatique (Prix de thèse)** (2025)
-- **Referent of CPER Maritime Drones - Lab-STICC** (2024-2027)
+- **Referent of CPERs RACAM and BrestBayBase on Maritime Drones for UBS** (2024-2027)
 - **Committee member of GdR Sécurité Informatique** (since 2024)
 - **Committee member of SemSecuElec INRIA/DGA Seminars** (since 2024)
 - **Referent of cyber security activities of IETR lab, ligerian perimeter** (2019 - 2024)
@@ -124,5 +128,7 @@ CV
 
 List of open-source projects
 -------
-- [DVFS-based attack](https://github.com/MariaMendezReal/DVFS-multicore-attack)
+- [A Lightweight Embedded Detection System against Voltage Drop Fault Attacks in Multi-Tenant FPGAs](https://sourcesup.renater.fr/projects/detectionva/)
+- [UAVLnQ UAV network simulator](https://github.com/Wh02m1/UAVLnQ)
+- [DVFS-based attack on Kirin Big Little ARM](https://github.com/MariaMendezReal/DVFS-multicore-attack)
 
