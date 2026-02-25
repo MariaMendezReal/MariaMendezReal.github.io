@@ -28,9 +28,9 @@ This is within the collaboration with ANSSI. Scientific Advisory Board includes 
 
 ### Recent communications and publications
 
-- Scientifi article accepted at CASCADE: **A Lightweight Embedded Detection System against Voltage Drop Fault Attacks in Multi-Tenant FPGAs**, Le Gonidec, G., Bouffard, G., Prevotet, J. C., & Méndez Real, M. (2026). Springer Constructive Approaches for SeCurity Analysis and Design of Embedded systems (CASCADE).
+- Scientific conference article accepted at CASCADE: **A Lightweight Embedded Detection System against Voltage Drop Fault Attacks in Multi-Tenant FPGAs**, Le Gonidec, G., Bouffard, G., Prevotet, J. C., & Méndez Real, M. (2026). Springer Constructive Approaches for SeCurity Analysis and Design of Embedded systems (CASCADE).
   
-- Scientific Journal article accepted at ACM TECS: **Do Not Trust Power Management: A Survey on Internal Energy-based Attacks Circumventing Trusted Execution Environments Security Properties**, Le Gonidec, G., Bouffard, G., Prevotet, J. C., & Méndez Real, M. (2025). ACM Transactions on Embedded Computing Systems (TECS), 24(4), 1-35. [open-version available here](https://doi.org/10.48550/arXiv.2405.15537).
+- Scientific journal article accepted at ACM TECS: **Do Not Trust Power Management: A Survey on Internal Energy-based Attacks Circumventing Trusted Execution Environments Security Properties**, Le Gonidec, G., Bouffard, G., Prevotet, J. C., & Méndez Real, M. (2025). ACM Transactions on Embedded Computing Systems (TECS), 24(4), 1-35. [open-version available here](https://doi.org/10.48550/arXiv.2405.15537).
 
 - Presentation and poster at [JAIF](https://jaif.io/2024/) (Journée thématique sur les Attaques par Injection de Fautes), available here; [presentation](/JAIF_GwennLeGonidec.pdf), [poster](/JAIF_Poster.pdf).
 
