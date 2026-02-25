@@ -57,6 +57,8 @@ https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
 - *Comb frequency division multiplexing: A non-binary modulation for airgap covert channel transmission*, BAHI, Mohamed Alla Eddine, REAL, Maria MENDEZ, et PELCAT, Maxime. In : 2025 Design, Automation & Test in Europe Conference (**DATE**). IEEE, 2025. p. 1-2.
 
 - *AudioGap: An AirGapped Covert Channel Exploiting the Frequency Diversity of Audio IC Electromagnetic Leakage*, M. A. E. BAHI, M. MENDEZ REAL, E. NOGUES and M. PELCAT, 2025 IEEE 49th Annual Computers, Software, and Applications Conference (**COMPSAC**), Toronto, ON, Canada, 2025, pp. 989-994, doi: 10.1109/COMPSAC65507.2025.00128.
+
+- *Clock-to-Clock Modulation Covert Channel*, M. A. E. Bahi, M. Méndez Real, E. Nogues & M. Pelcat (2025, September). In IEEE 2025 International Symposium on Electromagnetic Compatibility (**EMC Europe**) (pp. 869-874).
   
 Research Projects & Fundings
 -------
