@@ -115,7 +115,7 @@ Invited Talks (since 2025)
 -------
 - Shonan Meeting n°236, Provable Security for Trustworthy Embedded Systems against Physical Attacks - From Theory to Practice, Invited talk: **When energy meets security: internal energy-based attacks**, Shonan, Japan, 16-19 March 2026.
 - International Week at UBS, Talk: **Security Research at Lab-STICC in Complex Embedded Systems**, Lorient, France, 10 March 2026.
-- SERICS PhD School on Advanced Hardware Security. Invited talk: ** µarchi** ..., at United Nationn, Turin, Italy 2025.
+- SERICS PhD School on Advanced Hardware Security. Invited talk: **Micro-Architectural Attacks**, Turin, Italy, 26th-31st October, 2025.
 - HTW'25 High-Tech Women - European Female Leaders in Hardware Cybersecurity. Invited talk: **The constant Battle between Performance and Security**, Darmstadt, Germany, 4th September 2025.
 - FETCH-École d'hiver Francophone sur les Technologies de Conception des Systèmes Embarqués Hétérogènes, Invited talk: **Quand optimisation énergétique et sécurité se rencontrent**. Montréal, Canada, 12th - 14th February, 2025.
 - PhD School ARCHI 2025. Invited talk: **Security of Embedded AI Side-channel attacks for input extraction**, Sète, France, March 2025.
