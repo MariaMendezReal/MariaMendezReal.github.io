@@ -108,16 +108,32 @@ PhD supervision
 - Owen Le-Gonidec (2023-2026), **Securing TEE-enabled RISC-V Processor against Energy-based Attacks**
 - Alla-Eddine Bahi (2023-2026), **Covert Channels on Air-Gap Computers** 
 - Juliette Pottier (2022-2025), **Cache memory Protection through Obfuscation**
-- May Myat Thu (2021-2024), **Study of Side-Channel Vulnerabilities in Deep Learning FPGA Implementations of Computer Vision**
-- Safouane Noubir (2018-2021), **Investigation of Security Vulnerabilities of Energy Management on Multi-Core Architectures**
+- May Myat Thu (2021-2024), **Study of Side-Channel Vulnerabilities in Deep Learning FPGA Implementations of Computer Vision**, Research security expert, at Secure-IC, Rennes, France.
+- Safouane Noubir (2018-2021), **Investigation of Security Vulnerabilities of Energy Management on Multi-Core Architectures**, today R&D in chip Design, at Rambus.
+
+Invited Talks 
+-------
+- Shonan Meeting n°236, Provable Security for Trustworthy Embedded Systems against Physical Attacks - From Theory to Practice, Invited talk: **When energy meets security: internal energy-based attacks**, Shonan, Japan, 16-19 March 2026.
+- International Week at UBS, Talk: **Security Research at Lab-STICC in Complex Embedded Systems**, Lorient, France, 10 March 2026.
+- SERICS PhD School on Advanced Hardware Security. Invited talk: ** µarchi** ..., at United Nationn, Turin, Italy 2025.
+- HTW'25 High-Tech Women - European Female Leaders in Hardware Cybersecurity. Invited talk: **The constant Battle between Performance and Security**, Darmstadt, Germany, 4th September 2025.
+- FETCH-École d'hiver Francophone sur les Technologies de Conception des Systèmes Embarqués Hétérogènes, Invited talk: **Quand optimisation énergétique et sécurité se rencontrent**. Montréal, Canada, 12th - 14th February, 2025.
+- PhD School ARCHI 2025. Invited talk: **Security of Embedded AI Side-channel attacks for input extraction**, Sète, France, March 2025.
+- Women in Cyber, Cyber INSA. Cybersécurité : Parcours d'expertes, Réseau INSA de France. Invited talk: **Conférence Recherche Cybersécurité : Hardware Security Trust on Maritime, Autonomous Drones**, 15th May 2025.
+- General Assembly of Lab-STICC. Invited talk: **Meutes de Drones Maritimes Autonomes et de Confiance CPJ M2DMAC**, Brest, France, 2025. 
+
+Invited Research visit
+-------
+- Invited research visit in collaboration with Ass. Prof. Yuko Hara at Titech Tokyo, Japan, 19-26 April 2025, Funding by World Research Hub (WRH) Japaneese Program award.
 
 Conferences and journal Program Commitee member
 -------
-- TCHES'23-24, DATE'24-26, VLSI-Security Track, among others
+- TCHES'23-24, DATE'24-26, TECS, TC, VLSI-Security Track, among others
 
 Other research responsabilities
 -------
-- **Member of doctoral thesis award of GdR Sécurité Informatique (Prix de thèse)** (2025)
+- **Award Jury Memeber of EDAA (European Design and Automation Association) Outstanding Dissertations Award (Prix de thèse)** (2024-2026)
+- **Award Jury Member of Doctoral Thesis Award of GdR Sécurité Informatique (Prix de thèse)** (2026)
 - **Referent of CPERs RACAM and BrestBayBase on Maritime Drones for UBS** (2024-2027)
 - **Committee member of GdR Sécurité Informatique** (since 2024)
 - **Committee member of SemSecuElec INRIA/DGA Seminars** (since 2024)
