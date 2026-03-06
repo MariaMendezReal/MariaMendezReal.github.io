@@ -111,7 +111,7 @@ PhD supervision
 - May Myat Thu (2021-2024), **Study of Side-Channel Vulnerabilities in Deep Learning FPGA Implementations of Computer Vision**, Research security expert, at Secure-IC, Rennes, France.
 - Safouane Noubir (2018-2021), **Investigation of Security Vulnerabilities of Energy Management on Multi-Core Architectures**, today R&D in chip Design, at Rambus.
 
-Invited Talks 
+Invited Talks (since 2025)
 -------
 - Shonan Meeting n°236, Provable Security for Trustworthy Embedded Systems against Physical Attacks - From Theory to Practice, Invited talk: **When energy meets security: internal energy-based attacks**, Shonan, Japan, 16-19 March 2026.
 - International Week at UBS, Talk: **Security Research at Lab-STICC in Complex Embedded Systems**, Lorient, France, 10 March 2026.
