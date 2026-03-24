@@ -70,17 +70,17 @@ Funding: ANR <br/>
 - **[CoPhyTEE: Addressing Covert & Physical Attacks performed from SW in Open-Hardware Trusted Execution Environment-enabled System-on-Chip](https://MariaMendezReal.github.io/CoPhyTEE.html) (Laureate, Coordinator)**<br/>
   2023-2027<br/>
   Funding: ANR JCJC - Jeunes Chercheuses et Jeunes Chercheurs (252KE)<br/>
-- **SecDRONE (Scientific leader): Embedded Detection of Deviant Drone Behavior**<br/> 
+- **SecDRONE: Embedded Detection of Deviant Drone Behavior (Scientific leader)**<br/> 
   2024-2027<br/>
   Funding: DGA through PEC (Pôle d'Excellence Cyber) (140KE)<br/>
-- **Micro Samba: Développement d’une Meute de micro-AUVs intelligents et d’un micro-SAS pour des Missions adaptatives avec des levées de doute roBotisés Automatiques et une très large couverture de zone(Participant)**<br/>
+- **Micro Samba: Développement d’une Meute de micro-AUVs intelligents et d’un micro-SAS pour des Missions adaptatives avec des levées de doute roBotisés Automatiques et une très large couverture de zone (Participant)**<br/>
   2026-2029<br/>
   Partners: UBS, Pytheas technology, Seaber
   Funding: BPI France2030 (3,5ME, 600KE (UBS))<br/>
 - **VAVIECA: Side-Channel Attacks vulnerabilities on FPGA Deep Neural Networks implementions (Scientific leader)**<br/>
   2021-2024<br/>
   Funding: DGA through PEC (Pôle d'Excellence Cyber) (140KE)<br/>
-- **SecV: Processor obfuscation through dynamical instruction decoding** <br/>
+- **SecV: Processor obfuscation through dynamical instruction decoding (Participant)** <br/>
   2022-2025<br/>
   Funding: ANR PRC (736KE)<br/>
 - **SecureIoT (Laureate, scientific leader)**<br/>
