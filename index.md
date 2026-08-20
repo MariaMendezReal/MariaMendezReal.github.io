@@ -25,7 +25,7 @@ Since September 2024, Maria Méndez Real holds the **Junior Professor Chair on S
 Maria has been working in Hardware Security since 2014. Her reasearch interests include side-channel attacks, fault and remote attacks, embedded systems, and machine learning implementation security.<br/>
 Maria is **scientific leader and coordinator of [CoPhyTEE](https://MariaMendezReal.github.io/CoPhyTEE.html) ANR JCJC Project**.<br/>
 
-From 2018 to 2024, she has been Associate Professor (*Maitre de Conférences*) at Polytech Nantes Université, France. 
+From 2018 to 2024, she has been Associate Professor (*Maitre de Conférences*) at Polytech Nantes Université, within IETR research laboratory, France. 
 Before, she was an Assistant Professor (*ATER*) from 2017 to 2018.<br/>
 She received her PhD, european label, in Electronic Engineering - Hardware Security from UBS, within Lab-STICC CNRS UMR 6285 lab in France. Her PhD work was on the frame of the French ANR TSUNAMY project (2013-2017) and deal with secure-enable mechanisms for the physical isolation of sensitive applications on many-core architectures.<br/>
 In 2015 Maria was invited researcher at the Ruhr-University of Bochum (RUB), Germany. She worked on virtual prototyping tools for evaluating multi core architectures security.<br/>
@@ -45,7 +45,13 @@ https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
 
 - *Do Not Trust Power Management: Challenges and Hints for Securing Future Trusted Execution Environments*, G. Le-Gonidec, G. Bouffard, J-P. Prévotet, M. Méndez Real, ACM Transactions on Embedded Computing Systems (**TECS**), 2025.
   
-**Conferences (8)**
+**Conferences (11)**
+- *JENGA: Exploiting Counter-Based RowHammer Countermeasures to Break Real-Time Predictability*, V. Abgrall, M. Traiola, R. Salvador, M. Méndez Real, A. Palumbo, A. Kritikakou, IEEE Real-Time Systems Symposium (**RTSS**), 2026.
+  
+- *Handmade Near Field Probes for EM Side-Channel Analysis on Cryptographic Modules*, B. Chambonnière, M. Méndez Real, F. Sarrazin, P. Besnier, T. Eudes, IEEE International Symposium on Electromagnetic Compatibility (**EMC Europe**), 2026.
+  
+- *EMSync: An In-Board EM Covert Channel Attack That Circumvents EMC Protection*, M. A. E. Bahi, M. Méndez Real, E. Nogues & M. Pelcat, IEEE 2025 International Symposium on Electromagnetic Compatibility (**EMC Europe**), Special Session: Electromagnetic Information Security: Passive and Active Attacks, 2026.
+    
 - *SnoopyPower! Remote Power Attacks on Cache and Coherence Paths*, E. Quéré, M. Méndez Real, T. Rockiki, L. Bossuet, R. Salvador, IEEE International Symposium on Hardware Oriented Security and Trust (**HOST**), 2026.
   
 - *A Lightweight Embedded Detection System against Voltage Drop Fault Attacks in Multi-Tenant FPGAs*, Gwenn Le Gonidec, Guillaume Bouffard, Jean-Christophe Prévotet and M. Méndez Real, Constructive Approaches for SeCurity Analysis and Design of Embedded systems (**CASCADE**), 2026. Open source code available at: https://sourcesup.renater.fr/projects/detectionva/
@@ -60,7 +66,7 @@ https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
 
 - *AudioGap: An AirGapped Covert Channel Exploiting the Frequency Diversity of Audio IC Electromagnetic Leakage*, M. A. E. BAHI, M. MENDEZ REAL, E. NOGUES and M. PELCAT, 2025 IEEE 49th Annual Computers, Software, and Applications Conference (**COMPSAC**), Toronto, ON, Canada, 2025, pp. 989-994, doi: 10.1109/COMPSAC65507.2025.00128.
 
-- *Clock-to-Clock Modulation Covert Channel*, M. A. E. Bahi, M. Méndez Real, E. Nogues & M. Pelcat (2025, September). In IEEE 2025 International Symposium on Electromagnetic Compatibility (**EMC Europe**) (pp. 869-874).
+- *Clock-to-Clock Modulation Covert Channel*, M. A. E. Bahi, M. Méndez Real, E. Nogues & M. Pelcat. In IEEE 2025 International Symposium on Electromagnetic Compatibility (**EMC Europe**) (pp. 869-874).
   
 Research Projects & Fundings
 -------
