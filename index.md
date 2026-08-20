@@ -73,9 +73,9 @@ Research Projects & Fundings
 - **Securing Multi-Agent Reinforcement Learning Against Data Poisoning Attacks: Application to Surface Maritime Drone Swarms (Scientific leader, PhD Laureat: A. Yousef)**<br/> 
   2026-2029<br/>
   Funding: Cluster SequoIA (140KE)<br/>
-- **Chair on Swarm of Autonomous and Trusted Maritime Drones (Chair Leader)**<br/>
+- **Junior Professor Chair on Swarm of Autonomous and Trusted Maritime Drones (Chair Leader)**<br/>
 2024-2028<br/>
-Funding: ANR <br/>
+Funding: ANR (200KE)<br/>
 - **[CoPhyTEE: Addressing Covert & Physical Attacks performed from SW in Open-Hardware Trusted Execution Environment-enabled System-on-Chip](https://MariaMendezReal.github.io/CoPhyTEE.html) (Laureate, Coordinator)**<br/>
   2023-2027<br/>
   Funding: ANR JCJC - Jeunes Chercheuses et Jeunes Chercheurs (252KE)<br/>
