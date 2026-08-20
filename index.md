@@ -125,15 +125,15 @@ PhD supervision
 Invited Talks (since 2025)
 -------
 - Air Sea International Workshop, with Submeeting 2026, Invited Talk: Security Challenges of Multi-environment unmanned systems, what can go wrong?, 19 June 2026.
-- Matinale Drones maritimes et Cybersécurité, at Festival Lorient Océans, organised by Odélor Lorient Technopole, Invited talk: Security of unmanned systems, what can go wrong?, 26 June 2026.
-- Shonan Meeting n°236, Provable Security for Trustworthy Embedded Systems against Physical Attacks - From Theory to Practice, Invited talk: **When energy meets security: internal energy-based attacks**, Shonan, Japan, 16-19 March 2026.
+- Matinale Drones maritimes et Cybersécurité, at Festival Lorient Océans, organised by Odélor Lorient Technopole, Invited Talk: Security of unmanned systems, what can go wrong?, 26 June 2026.
+- Shonan Meeting n°236, Provable Security for Trustworthy Embedded Systems against Physical Attacks - From Theory to Practice, Invited Talk: **When energy meets security: internal energy-based attacks**, Shonan, Japan, 16-19 March 2026.
 - International Week at UBS, Talk: **Security Research at Lab-STICC in Complex Embedded Systems**, Lorient, France, 10 March 2026.
-- SERICS PhD School on Advanced Hardware Security. Invited talk: **Micro-Architectural Attacks**, Turin, Italy, 26th-31st October, 2025.
-- HTW'25 High-Tech Women - European Female Leaders in Hardware Cybersecurity. Invited talk: **The constant Battle between Performance and Security**, Darmstadt, Germany, 4th September 2025.
-- FETCH-École d'hiver Francophone sur les Technologies de Conception des Systèmes Embarqués Hétérogènes, Invited talk: **Quand optimisation énergétique et sécurité se rencontrent**. Montréal, Canada, 12th - 14th February, 2025.
-- PhD School ARCHI 2025. Invited talk: **Security of Embedded AI Side-channel attacks for input extraction**, Sète, France, March 2025.
-- Women in Cyber, Cyber INSA. Cybersécurité : Parcours d'expertes, Réseau INSA de France. Invited talk: **Conférence Recherche Cybersécurité : Hardware Security Trust on Maritime, Autonomous Drones**, 15th May 2025.
-- General Assembly of Lab-STICC. Invited talk: **Meutes de Drones Maritimes Autonomes et de Confiance CPJ M2DMAC**, Brest, France, 2025. 
+- SERICS PhD School on Advanced Hardware Security. Invited Talk: **Micro-Architectural Attacks**, Turin, Italy, 26th-31st October, 2025.
+- HTW'25 High-Tech Women - European Female Leaders in Hardware Cybersecurity. Invited Talk: **The constant Battle between Performance and Security**, Darmstadt, Germany, 4th September 2025.
+- FETCH-École d'hiver Francophone sur les Technologies de Conception des Systèmes Embarqués Hétérogènes, Invited Talk: **Quand optimisation énergétique et sécurité se rencontrent**. Montréal, Canada, 12th - 14th February, 2025.
+- PhD School ARCHI 2025. Invited Talk: **Security of Embedded AI Side-channel attacks for input extraction**, Sète, France, March 2025.
+- Women in Cyber, Cyber INSA. Cybersécurité : Parcours d'expertes, Réseau INSA de France. Invited Talk: **Conférence Recherche Cybersécurité : Hardware Security Trust on Maritime, Autonomous Drones**, 15th May 2025.
+- General Assembly of Lab-STICC. Invited Talk: **Meutes de Drones Maritimes Autonomes et de Confiance CPJ M2DMAC**, Brest, France, 2025. 
 
 Invited Research visit
 -------
