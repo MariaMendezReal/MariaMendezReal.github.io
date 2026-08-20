@@ -145,7 +145,7 @@ Conferences and journal Program Commitee member
 
 Other research responsabilities
 -------
-- **Co-responsible of Hardware Security Systems working group (SSM for Sécurité des systèmes matériels) of GdR Sécurité Informatique** (since 2024) 
+- **Co-referent for Hardware Security Systems working group (SSM for Sécurité des systèmes matériels) of GdR Sécurité Informatique** (since 2024) 
 - **Award Jury Memeber of EDAA (European Design and Automation Association) Outstanding Dissertations Award (Prix de thèse)** (2024-2026)
 - **Award Jury Member of Doctoral Thesis Award of GdR Sécurité Informatique (Prix de thèse)** (2026)
 - **Referent of CPERs RACAM and BrestBayBase on Maritime Drones for UBS** (2024-2027)
