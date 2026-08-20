@@ -124,6 +124,8 @@ PhD supervision
 
 Invited Talks (since 2025)
 -------
+- Air Sea International Workshop, with Submeeting 2026, Invited Talk: Security Challenges of Multi-environment unmanned systems, what can go wrong?, 19 June 2026.
+- Matinale Drones maritimes et Cybersécurité, at Festival Lorient Océans, organised by Odélor Lorient Technopole, Invited talk: Security of unmanned systems, what can go wrong?, 26 June 2026.
 - Shonan Meeting n°236, Provable Security for Trustworthy Embedded Systems against Physical Attacks - From Theory to Practice, Invited talk: **When energy meets security: internal energy-based attacks**, Shonan, Japan, 16-19 March 2026.
 - International Week at UBS, Talk: **Security Research at Lab-STICC in Complex Embedded Systems**, Lorient, France, 10 March 2026.
 - SERICS PhD School on Advanced Hardware Security. Invited talk: **Micro-Architectural Attacks**, Turin, Italy, 26th-31st October, 2025.
