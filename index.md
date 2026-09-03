@@ -32,7 +32,7 @@ In 2015 Maria was invited researcher at the Ruhr-University of Bochum (RUB), Ger
 Before that, she received her master (Dipl.-Ing.) in Electrical and Computer from UBS in 2014.<br/>
 
 Maria Méndez Real is author and co-author in international journals, conferences and workshops (TECS, TC, HOST, DATE, JSA, FPL, SAMOS, VLSI, etc). She is PC member and reviwer of several international journals and conferences (VLSI, JCEN, DATE, NEWCAS, FPT, TCAD, LASCAS, MCSoC, ICCS), and **she is PC member of TCHES 2023, 2024, top venue in her field.**<br/>
-She actively participates on national project evaluation (ANR projects, PEC, regional, etc) and jurys for recrutement of Associate Professors and PhD following and defense jurys.
+She actively participates on national project evaluation (ANR projects, PEC, regional, etc) and jurys for recrutement of Associate Professors and PhD following and defense jurys. **Maria is member of the 2026 ANR evaluation committee CE39 - Sécurité globale, résilience et gestion de crise, cybersécurité**.
 
 List of Publications
 -------
