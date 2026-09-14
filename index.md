@@ -47,9 +47,9 @@ https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
   
 **Conferences (12)**
 - *HOMARD: Hammering Off-chip Memory via Aggregate power Rail Disclosure*, E. Quere, L. Chung Chiang, C. Fiedler, T. Rokicki, M. Méndez Real, A. Palumbo, L. Bossuet, R. Salvador, D. Gruss, IEEE Symposium on
-Security and Privacy (**S&P**, Rang A*, acceptance rate 15,8%), 2027.
+Security and Privacy (**S&P**, <span style="color:red">Text content</span>**Rang A*, acceptance rate 15,8%</span>), 2027.
 
-- *JENGA: Exploiting Counter-Based RowHammer Countermeasures to Break Real-Time Predictability*, V. Abgrall, M. Traiola, R. Salvador, M. Méndez Real, A. Palumbo, A. Kritikakou, IEEE Real-Time Systems Symposium (**RTSS**, Rang A), 2026.
+- *JENGA: Exploiting Counter-Based RowHammer Countermeasures to Break Real-Time Predictability*, V. Abgrall, M. Traiola, R. Salvador, M. Méndez Real, A. Palumbo, A. Kritikakou, IEEE Real-Time Systems Symposium (**RTSS**, **Rang A**), 2026.
   
 - *Handmade Near Field Probes for EM Side-Channel Analysis on Cryptographic Modules*, B. Chambonnière, M. Méndez Real, F. Sarrazin, P. Besnier, T. Eudes, IEEE International Symposium on Electromagnetic Compatibility (**EMC Europe**), 2026.
   
