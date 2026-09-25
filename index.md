@@ -47,19 +47,19 @@ https://scholar.google.com/citations?hl=fr&user=5GDDjKkAAAAJ
   
 **Conferences (12)**
 - *HOMARD: Hammering Off-chip Memory via Aggregate power Rail Disclosure*, E. Quere, L. Chung Chiang, C. Fiedler, T. Rokicki, M. Méndez Real, A. Palumbo, L. Bossuet, R. Salvador, D. Gruss, IEEE Symposium on
-Security and Privacy (**S&P**, Rang A*, acceptance rate: 15%), 2027.
+Security and Privacy (**S&P**, **Rang** A*, **acceptance rate: 15%**), 2027.
 
-- *JENGA: Exploiting Counter-Based RowHammer Countermeasures to Break Real-Time Predictability*, V. Abgrall, M. Traiola, R. Salvador, M. Méndez Real, A. Palumbo, A. Kritikakou, IEEE Real-Time Systems Symposium (**RTSS**, Rang A), 2026.
+- *JENGA: Exploiting Counter-Based RowHammer Countermeasures to Break Real-Time Predictability*, V. Abgrall, M. Traiola, R. Salvador, M. Méndez Real, A. Palumbo, A. Kritikakou, IEEE Real-Time Systems Symposium (**RTSS**, **Rang A**), 2026.
   
 - *Handmade Near Field Probes for EM Side-Channel Analysis on Cryptographic Modules*, B. Chambonnière, M. Méndez Real, F. Sarrazin, P. Besnier, T. Eudes, IEEE International Symposium on Electromagnetic Compatibility (**EMC Europe**), 2026.
   
 - *EMSync: An In-Board EM Covert Channel Attack That Circumvents EMC Protection*, M. A. E. Bahi, M. Méndez Real, E. Nogues & M. Pelcat, IEEE 2025 International Symposium on Electromagnetic Compatibility (**EMC Europe**), Special Session: Electromagnetic Information Security: Passive and Active Attacks, 2026.
     
-- *SnoopyPower! Remote Power Attacks on Cache and Coherence Paths*, E. Quéré, M. Méndez Real, T. Rockiki, L. Bossuet, R. Salvador, IEEE International Symposium on Hardware Oriented Security and Trust (**HOST**, acceptance rate: 25%), 2026.
+- *SnoopyPower! Remote Power Attacks on Cache and Coherence Paths*, E. Quéré, M. Méndez Real, T. Rockiki, L. Bossuet, R. Salvador, IEEE International Symposium on Hardware Oriented Security and Trust (**HOST**, **acceptance rate: 25%**), 2026.
   
 - *A Lightweight Embedded Detection System against Voltage Drop Fault Attacks in Multi-Tenant FPGAs*, Gwenn Le Gonidec, Guillaume Bouffard, Jean-Christophe Prévotet and M. Méndez Real, Constructive Approaches for SeCurity Analysis and Design of Embedded systems (**CASCADE**), 2026. Open source code available at: https://sourcesup.renater.fr/projects/detectionva/
   
-- *Double Strike: Breaking Approximation-based Side-Channel Countermeasures for DNNs*, L. Casalino, M. Méndez Real, JC. Prévotet, R. Salvador, IEEE International Symposium on Hardware Oriented Security and Trust (**HOST**, acceptance rate: 25%), 2026.
+- *Double Strike: Breaking Approximation-based Side-Channel Countermeasures for DNNs*, L. Casalino, M. Méndez Real, JC. Prévotet, R. Salvador, IEEE International Symposium on Hardware Oriented Security and Trust (**HOST**, **acceptance rate: 25%**), 2026.
 
 - *UAVLnQ: An Architecture for Security Analysis of Cyber-Physical Network Behavior in UAVSwarms*, A. Yousef, C. Tsai, N. N. Mistry, M. Méndez Real, and G. Gogniat, Workshop on Design and Architectures for Signal and Image Processing (**DASIP**), 2026. Open source code available at: https://github.com/Wh02m1/UAVLnQ
 
