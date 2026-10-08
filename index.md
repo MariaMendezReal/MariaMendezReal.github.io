@@ -65,7 +65,7 @@ Security and Privacy (**S&P**, **Rang** A*, **acceptance rate: 15%**), 2027.
 
 - *DynHaMo: Dynamic Hardware-based Monitoring dedicated to Attacks Detection*, J. Pottier, M. Méndez Real, B. Granado, S. Pillement, Conference on Hardware/Software Codesign and System Synthesis (**CODES+ISSS**), 2025.
   
-- *Comb frequency division multiplexing: A non-binary modulation for airgap covert channel transmission*, BAHI, Mohamed Alla Eddine, REAL, Maria MENDEZ, et PELCAT, Maxime. In : 2025 Design, Automation & Test in Europe Conference (**DATE**, Rang A). IEEE, 2025. p. 1-2.
+- *Comb frequency division multiplexing: A non-binary modulation for airgap covert channel transmission*, BAHI, Mohamed Alla Eddine, REAL, Maria MENDEZ, et PELCAT, Maxime. In : 2025 Design, Automation & Test in Europe Conference (**DATE**, **Rang A**). IEEE, 2025. p. 1-2.
 
 - *AudioGap: An AirGapped Covert Channel Exploiting the Frequency Diversity of Audio IC Electromagnetic Leakage*, M. A. E. BAHI, M. MENDEZ REAL, E. NOGUES and M. PELCAT, 2025 IEEE 49th Annual Computers, Software, and Applications Conference (**COMPSAC**, Rang B), Toronto, ON, Canada, 2025, pp. 989-994, doi: 10.1109/COMPSAC65507.2025.00128.
 
@@ -116,14 +116,16 @@ Funding: ANR (200KE)<br/>
     
 PhD supervision
 -------
-- Tsion Fikadu (2025 - ), **Embedded Detection of Drone Deviant Behavior**
-- Mohcine Kaddi (2025 - ), **Trusted Embedded and Distributed IA**
-- Eliott Quéré (2024-2027), **Security Analysis on Heterogeneous Systems on Chip**
-- Owen Le-Gonidec (2023-2026), **Securing TEE-enabled RISC-V Processor against Energy-based Attacks**
-- Alla-Eddine Bahi (2023-2026), **Covert Channels on Air-Gap Computers** 
-- Juliette Pottier (2022-2025), **Cache memory Protection through Obfuscation**
-- May Myat Thu (2021-2024), **Study of Side-Channel Vulnerabilities in Deep Learning FPGA Implementations of Computer Vision**, Research security expert, at Secure-IC, Rennes, France.
-- Safouane Noubir (2018-2021), **Investigation of Security Vulnerabilities of Energy Management on Multi-Core Architectures**, today R&D in chip Design, at Rambus.
+- Abdelrahman Yousef (2026 - ), **Securing Multi-Agent Reinforcement Learning Against Data Poisoning Attacks: Application to Surface Maritime Drone Swarms** (Funding: Cluster SequoIA, Co-tutelle with University of Luxembourg)
+- Tsion Fikadu (2025 - ), **Embedded Detection of Drone Deviant Behavior** (Funding: DGA + ANR M2DMAC chaire)
+- Mohcine Kaddi (2025 - ), **Trusted Embedded and Distributed IA**, (Funding: ANR M2DMAC chaire + UBS CDE)
+- Baptiste Chambonnière (2024-2027), **Défense contre cyber attaque électromagnétique** (Funding: DGA + ANR M2DMAC chaire)
+- Eliott Quéré (2024- ), **Security Analysis on Heterogeneous Systems on Chip** (Funding: CyberShool)
+- Owen Le-Gonidec (2023-2026), **Securing TEE-enabled RISC-V Processor against Energy-based Attacks** (Funding: ANR JCJC CoPhyTEE project)
+- Alla-Eddine Bahi (2023-2026), **Covert Channels on Air-Gap Computers** (Funding: DGA + UR CDE)
+- Juliette Pottier (2022-2025), **Cache memory Protection through Obfuscation** (Funding: ANR PRC SecV project)
+- May Myat Thu (2021-2024), **Study of Side-Channel Vulnerabilities in Deep Learning FPGA Implementations of Computer Vision** (Funding: DGA). Today, Research security expert, at Secure-IC, Rennes, France.
+- Safouane Noubir (2018-2021), **Investigation of Security Vulnerabilities of Energy Management on Multi-Core Architectures** (Funding: SecIoT Attractivité RFI WISE project). Today R&D in chip Design, at Rambus.
 
 Invited Talks (since 2025)
 -------
