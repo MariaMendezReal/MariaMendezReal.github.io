@@ -119,7 +119,7 @@ PhD supervision
 - Abdelrahman Yousef (2026 - ), **Securing Multi-Agent Reinforcement Learning Against Data Poisoning Attacks: Application to Surface Maritime Drone Swarms** (Funding: Cluster SequoIA, Co-tutelle with University of Luxembourg)
 - Tsion Fikadu (2025 - ), **Embedded Detection of Drone Deviant Behavior** (Funding: DGA + ANR M2DMAC chaire)
 - Mohcine Kaddi (2025 - ), **Trusted Embedded and Distributed IA**, (Funding: ANR M2DMAC chaire + UBS CDE)
-- Baptiste Chambonnière (2024-2027), **Défense contre cyber attaque électromagnétique** (Funding: DGA + ANR M2DMAC chaire)
+- Baptiste Chambonnière (2024-2027), **Défense contre cyber attaque électromagnétique** (Funding: Thèse CIFRE, Safran Research & Defense)
 - Eliott Quéré (2024- ), **Security Analysis on Heterogeneous Systems on Chip** (Funding: CyberShool)
 - Owen Le-Gonidec (2023-2026), **Securing TEE-enabled RISC-V Processor against Energy-based Attacks** (Funding: ANR JCJC CoPhyTEE project)
 - Alla-Eddine Bahi (2023-2026), **Covert Channels on Air-Gap Computers** (Funding: DGA + UR CDE)
